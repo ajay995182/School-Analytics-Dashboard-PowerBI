@@ -11,22 +11,26 @@ This is my **second Power BI project**, built as a natural extension of the scho
 ### 🏠 Page 1 – Executive Overview
 Total students, attendance %, average marks %, fee collection rate, attrition-style KPIs, attendance and marks by class, fee status split.
 
-![Executive Overview](Images/ExecutiveOverview.png)
+<img width="1302" height="717" alt="Screenshot 2026-07-29 153400" src="https://github.com/user-attachments/assets/cfc4fdc2-f30f-4017-a1d5-7f3aca9a7d48" />
+
 
 ### 📚 Page 2 – Academic Performance
 Class/section/exam-type filters, a class-vs-subject performance matrix, average marks by teacher, and a top-student detail table.
 
-![Academic Performance](Images/AcademicPerformance.png)
+<img width="1296" height="722" alt="Screenshot 2026-07-29 153411" src="https://github.com/user-attachments/assets/2a976522-e0cf-40e2-91fd-5d8267a66f9a" />
+
 
 ### 📅 Page 3 – Attendance Analysis
 Attendance trend over time, attendance by section, and a scatter plot correlating attendance with academic performance.
 
-![Attendance Analysis](Images/AttendanceAnalysis.png)
+<img width="1300" height="727" alt="Screenshot 2026-07-29 153424" src="https://github.com/user-attachments/assets/b838b0b0-4885-424c-b71f-559c04f8b534" />
+
 
 ### 💰 Page 4 – Fee Collection
 Fee due/collected KPIs, collection rate by term, an overdue-students table, and payment mode split.
 
-![Fee Collection](Images/FeeCollection.png)
+<img width="1306" height="726" alt="Screenshot 2026-07-29 153434" src="https://github.com/user-attachments/assets/6414e8e6-9788-4a74-98fe-fca7803fdea5" />
+
 
 ---
 
