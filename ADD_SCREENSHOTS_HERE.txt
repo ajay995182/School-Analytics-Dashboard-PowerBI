@@ -1,0 +1,10 @@
+Add your 4 dashboard page screenshots here, named exactly:
+
+ExecutiveOverview.png
+AcademicPerformance.png
+AttendanceAnalysis.png
+FeeCollection.png
+
+Then delete this file. The README.md already references these exact filenames,
+so once you drop the real screenshots in, they'll render automatically on
+your GitHub repo page.
