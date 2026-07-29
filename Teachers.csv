@@ -1,0 +1,91 @@
+TeacherID,TeacherName,Subject,Class,Section,YearsExperience
+1,Ravindra Rao,Mathematics,6,A,6
+2,Kavitha Reddy,Science,6,A,13
+3,Kavitha Reddy,English,6,A,8
+4,Mahesh Varma,Social Studies,6,A,9
+5,Jyothi Rani,Telugu,6,A,7
+6,Kavitha Reddy,Computer Science,6,A,6
+7,Srinivasa Rao,Mathematics,6,B,12
+8,Ramesh Babu,Science,6,B,10
+9,Padmavathi,English,6,B,12
+10,Lakshmi Prasanna,Social Studies,6,B,12
+11,Mahesh Varma,Telugu,6,B,10
+12,Mahesh Varma,Computer Science,6,B,8
+13,Jyothi Rani,Mathematics,6,C,11
+14,Jyothi Rani,Science,6,C,8
+15,Kavitha Reddy,English,6,C,14
+16,Ramesh Babu,Social Studies,6,C,8
+17,Sunitha Devi,Telugu,6,C,2
+18,Kavitha Reddy,Computer Science,6,C,7
+19,Kavitha Reddy,Mathematics,7,A,12
+20,Kavitha Reddy,Science,7,A,6
+21,Kavitha Reddy,English,7,A,6
+22,Ravindra Rao,Social Studies,7,A,6
+23,Padma Sri,Telugu,7,A,1
+24,Sunitha Devi,Computer Science,7,A,9
+25,Padma Sri,Mathematics,7,B,7
+26,Padmavathi,Science,7,B,11
+27,Jyothi Rani,English,7,B,5
+28,Anil Kumar,Social Studies,7,B,14
+29,Anil Kumar,Telugu,7,B,9
+30,Suresh Chandra,Computer Science,7,B,16
+31,Ramesh Babu,Mathematics,7,C,5
+32,Jyothi Rani,Science,7,C,15
+33,Padma Sri,English,7,C,8
+34,Lakshmi Prasanna,Social Studies,7,C,8
+35,Padmavathi,Telugu,7,C,11
+36,Mahesh Varma,Computer Science,7,C,1
+37,Suresh Chandra,Mathematics,8,A,7
+38,Padma Sri,Science,8,A,12
+39,Mahesh Varma,English,8,A,14
+40,Sunitha Devi,Social Studies,8,A,4
+41,Suresh Chandra,Telugu,8,A,13
+42,Jyothi Rani,Computer Science,8,A,6
+43,Jyothi Rani,Mathematics,8,B,8
+44,Srinivasa Rao,Science,8,B,1
+45,Anil Kumar,English,8,B,1
+46,Padmavathi,Social Studies,8,B,14
+47,Suresh Chandra,Telugu,8,B,9
+48,Srinivasa Rao,Computer Science,8,B,10
+49,Suresh Chandra,Mathematics,8,C,6
+50,Srinivasa Rao,Science,8,C,10
+51,Lakshmi Prasanna,English,8,C,5
+52,Padmavathi,Social Studies,8,C,9
+53,Jyothi Rani,Telugu,8,C,1
+54,Lakshmi Prasanna,Computer Science,8,C,6
+55,Lakshmi Prasanna,Mathematics,9,A,2
+56,Kavitha Reddy,Science,9,A,8
+57,Lakshmi Prasanna,English,9,A,6
+58,Ramesh Babu,Social Studies,9,A,12
+59,Lakshmi Prasanna,Telugu,9,A,6
+60,Kavitha Reddy,Computer Science,9,A,6
+61,Sunitha Devi,Mathematics,9,B,8
+62,Jyothi Rani,Science,9,B,13
+63,Suresh Chandra,English,9,B,7
+64,Kavitha Reddy,Social Studies,9,B,15
+65,Srinivasa Rao,Telugu,9,B,12
+66,Lakshmi Prasanna,Computer Science,9,B,18
+67,Padmavathi,Mathematics,9,C,8
+68,Ramesh Babu,Science,9,C,1
+69,Jyothi Rani,English,9,C,13
+70,Padma Sri,Social Studies,9,C,13
+71,Anil Kumar,Telugu,9,C,6
+72,Ravindra Rao,Computer Science,9,C,9
+73,Suresh Chandra,Mathematics,10,A,7
+74,Sunitha Devi,Science,10,A,9
+75,Ravindra Rao,English,10,A,1
+76,Srinivasa Rao,Social Studies,10,A,5
+77,Suresh Chandra,Telugu,10,A,9
+78,Ramesh Babu,Computer Science,10,A,12
+79,Anil Kumar,Mathematics,10,B,1
+80,Anil Kumar,Science,10,B,8
+81,Ramesh Babu,English,10,B,2
+82,Ramesh Babu,Social Studies,10,B,9
+83,Jyothi Rani,Telugu,10,B,8
+84,Sunitha Devi,Computer Science,10,B,9
+85,Suresh Chandra,Mathematics,10,C,14
+86,Suresh Chandra,Science,10,C,7
+87,Anil Kumar,English,10,C,4
+88,Mahesh Varma,Social Studies,10,C,4
+89,Padma Sri,Telugu,10,C,3
+90,Sunitha Devi,Computer Science,10,C,10

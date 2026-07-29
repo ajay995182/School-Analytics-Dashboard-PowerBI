@@ -1,0 +1,2701 @@
+FeeID,StudentID,Term,AmountDue,AmountPaid,PaymentStatus,PaymentMode
+1,1,Term 1,6000,6000,Paid,Cash
+2,1,Term 2,6000,2442,Overdue,
+3,1,Term 3,6000,6000,Paid,Bank Transfer
+4,2,Term 1,6000,6000,Paid,Razorpay (Online)
+5,2,Term 2,6000,6000,Paid,Cash
+6,2,Term 3,6000,6000,Paid,Razorpay (Online)
+7,3,Term 1,6000,0,Pending,
+8,3,Term 2,6000,6000,Paid,Cash
+9,3,Term 3,6000,930,Overdue,
+10,4,Term 1,6000,6000,Paid,Razorpay (Online)
+11,4,Term 2,6000,0,Pending,
+12,4,Term 3,6000,6000,Paid,Cash
+13,5,Term 1,6000,6000,Paid,Razorpay (Online)
+14,5,Term 2,6000,6000,Paid,Razorpay (Online)
+15,5,Term 3,6000,1407,Overdue,
+16,6,Term 1,6000,6000,Paid,Razorpay (Online)
+17,6,Term 2,6000,6000,Paid,Razorpay (Online)
+18,6,Term 3,6000,6000,Paid,Bank Transfer
+19,7,Term 1,6000,6000,Paid,Razorpay (Online)
+20,7,Term 2,6000,0,Pending,
+21,7,Term 3,6000,0,Pending,
+22,8,Term 1,6000,6000,Paid,Bank Transfer
+23,8,Term 2,6000,2194,Overdue,
+24,8,Term 3,6000,6000,Paid,Cash
+25,9,Term 1,6000,0,Pending,
+26,9,Term 2,6000,6000,Paid,Razorpay (Online)
+27,9,Term 3,6000,6000,Paid,Razorpay (Online)
+28,10,Term 1,6000,6000,Paid,Cash
+29,10,Term 2,6000,1062,Overdue,
+30,10,Term 3,6000,6000,Paid,Bank Transfer
+31,11,Term 1,6000,6000,Paid,Razorpay (Online)
+32,11,Term 2,6000,6000,Paid,Razorpay (Online)
+33,11,Term 3,6000,1548,Overdue,
+34,12,Term 1,6000,90,Overdue,
+35,12,Term 2,6000,6000,Paid,Razorpay (Online)
+36,12,Term 3,6000,6000,Paid,Cash
+37,13,Term 1,6000,900,Overdue,
+38,13,Term 2,6000,6000,Paid,Razorpay (Online)
+39,13,Term 3,6000,0,Pending,
+40,14,Term 1,6000,6000,Paid,Razorpay (Online)
+41,14,Term 2,6000,6000,Paid,Razorpay (Online)
+42,14,Term 3,6000,6000,Paid,Cash
+43,15,Term 1,6000,2390,Overdue,
+44,15,Term 2,6000,1088,Overdue,
+45,15,Term 3,6000,6000,Paid,Razorpay (Online)
+46,16,Term 1,6000,0,Pending,
+47,16,Term 2,6000,6000,Paid,Razorpay (Online)
+48,16,Term 3,6000,6000,Paid,Cash
+49,17,Term 1,6000,6000,Paid,Razorpay (Online)
+50,17,Term 2,6000,6000,Paid,Bank Transfer
+51,17,Term 3,6000,0,Pending,
+52,18,Term 1,6000,6000,Paid,Razorpay (Online)
+53,18,Term 2,6000,6000,Paid,Cash
+54,18,Term 3,6000,6000,Paid,Razorpay (Online)
+55,19,Term 1,6000,6000,Paid,Razorpay (Online)
+56,19,Term 2,6000,6000,Paid,Cash
+57,19,Term 3,6000,6000,Paid,Razorpay (Online)
+58,20,Term 1,6000,6000,Paid,Razorpay (Online)
+59,20,Term 2,6000,6000,Paid,Bank Transfer
+60,20,Term 3,6000,6000,Paid,Bank Transfer
+61,21,Term 1,6000,6000,Paid,Razorpay (Online)
+62,21,Term 2,6000,6000,Paid,Razorpay (Online)
+63,21,Term 3,6000,0,Pending,
+64,22,Term 1,6000,2597,Overdue,
+65,22,Term 2,6000,6000,Paid,Bank Transfer
+66,22,Term 3,6000,6000,Paid,Razorpay (Online)
+67,23,Term 1,6000,6000,Paid,Razorpay (Online)
+68,23,Term 2,6000,6000,Paid,Cash
+69,23,Term 3,6000,0,Pending,
+70,24,Term 1,6000,6000,Paid,Razorpay (Online)
+71,24,Term 2,6000,6000,Paid,Razorpay (Online)
+72,24,Term 3,6000,6000,Paid,Cash
+73,25,Term 1,6000,6000,Paid,Razorpay (Online)
+74,25,Term 2,6000,6000,Paid,Razorpay (Online)
+75,25,Term 3,6000,6000,Paid,Cash
+76,26,Term 1,6000,6000,Paid,Razorpay (Online)
+77,26,Term 2,6000,6000,Paid,Razorpay (Online)
+78,26,Term 3,6000,6000,Paid,Cash
+79,27,Term 1,6000,0,Pending,
+80,27,Term 2,6000,6000,Paid,Cash
+81,27,Term 3,6000,6000,Paid,Cash
+82,28,Term 1,6000,6000,Paid,Razorpay (Online)
+83,28,Term 2,6000,513,Overdue,
+84,28,Term 3,6000,6000,Paid,Cash
+85,29,Term 1,6000,6000,Paid,Cash
+86,29,Term 2,6000,6000,Paid,Razorpay (Online)
+87,29,Term 3,6000,1604,Overdue,
+88,30,Term 1,6000,6000,Paid,Razorpay (Online)
+89,30,Term 2,6000,6000,Paid,Bank Transfer
+90,30,Term 3,6000,6000,Paid,Razorpay (Online)
+91,31,Term 1,6000,6000,Paid,Cash
+92,31,Term 2,6000,6000,Paid,Cash
+93,31,Term 3,6000,6000,Paid,Cash
+94,32,Term 1,6000,0,Pending,
+95,32,Term 2,6000,0,Pending,
+96,32,Term 3,6000,6000,Paid,Cash
+97,33,Term 1,6000,6000,Paid,Razorpay (Online)
+98,33,Term 2,6000,6000,Paid,Razorpay (Online)
+99,33,Term 3,6000,0,Pending,
+100,34,Term 1,6000,6000,Paid,Bank Transfer
+101,34,Term 2,6000,6000,Paid,Razorpay (Online)
+102,34,Term 3,6000,0,Pending,
+103,35,Term 1,6000,0,Pending,
+104,35,Term 2,6000,6000,Paid,Razorpay (Online)
+105,35,Term 3,6000,6000,Paid,Bank Transfer
+106,36,Term 1,6000,6000,Paid,Razorpay (Online)
+107,36,Term 2,6000,6000,Paid,Razorpay (Online)
+108,36,Term 3,6000,2073,Overdue,
+109,37,Term 1,6000,6000,Paid,Bank Transfer
+110,37,Term 2,6000,0,Pending,
+111,37,Term 3,6000,6000,Paid,Bank Transfer
+112,38,Term 1,6000,0,Pending,
+113,38,Term 2,6000,0,Pending,
+114,38,Term 3,6000,6000,Paid,Razorpay (Online)
+115,39,Term 1,6000,6000,Paid,Razorpay (Online)
+116,39,Term 2,6000,0,Pending,
+117,39,Term 3,6000,6000,Paid,Cash
+118,40,Term 1,6000,2996,Overdue,
+119,40,Term 2,6000,6000,Paid,Razorpay (Online)
+120,40,Term 3,6000,6000,Paid,Razorpay (Online)
+121,41,Term 1,6000,6000,Paid,Razorpay (Online)
+122,41,Term 2,6000,6000,Paid,Bank Transfer
+123,41,Term 3,6000,0,Pending,
+124,42,Term 1,6000,6000,Paid,Cash
+125,42,Term 2,6000,0,Pending,
+126,42,Term 3,6000,0,Pending,
+127,43,Term 1,6000,6000,Paid,Razorpay (Online)
+128,43,Term 2,6000,0,Pending,
+129,43,Term 3,6000,6000,Paid,Cash
+130,44,Term 1,6000,6000,Paid,Razorpay (Online)
+131,44,Term 2,6000,6000,Paid,Cash
+132,44,Term 3,6000,6000,Paid,Razorpay (Online)
+133,45,Term 1,6000,6000,Paid,Razorpay (Online)
+134,45,Term 2,6000,0,Pending,
+135,45,Term 3,6000,6000,Paid,Cash
+136,46,Term 1,6000,6000,Paid,Cash
+137,46,Term 2,6000,6000,Paid,Cash
+138,46,Term 3,6000,6000,Paid,Cash
+139,47,Term 1,6000,6000,Paid,Razorpay (Online)
+140,47,Term 2,6000,397,Overdue,
+141,47,Term 3,6000,6000,Paid,Bank Transfer
+142,48,Term 1,6000,6000,Paid,Bank Transfer
+143,48,Term 2,6000,566,Overdue,
+144,48,Term 3,6000,6000,Paid,Razorpay (Online)
+145,49,Term 1,6000,1915,Overdue,
+146,49,Term 2,6000,0,Pending,
+147,49,Term 3,6000,0,Pending,
+148,50,Term 1,6000,6000,Paid,Razorpay (Online)
+149,50,Term 2,6000,6000,Paid,Cash
+150,50,Term 3,6000,6000,Paid,Bank Transfer
+151,51,Term 1,6000,6000,Paid,Razorpay (Online)
+152,51,Term 2,6000,6000,Paid,Bank Transfer
+153,51,Term 3,6000,6000,Paid,Razorpay (Online)
+154,52,Term 1,6000,6000,Paid,Cash
+155,52,Term 2,6000,6000,Paid,Cash
+156,52,Term 3,6000,6000,Paid,Razorpay (Online)
+157,53,Term 1,6000,6000,Paid,Razorpay (Online)
+158,53,Term 2,6000,6000,Paid,Razorpay (Online)
+159,53,Term 3,6000,6000,Paid,Razorpay (Online)
+160,54,Term 1,6000,0,Pending,
+161,54,Term 2,6000,6000,Paid,Cash
+162,54,Term 3,6000,0,Pending,
+163,55,Term 1,6000,0,Pending,
+164,55,Term 2,6000,0,Pending,
+165,55,Term 3,6000,0,Pending,
+166,56,Term 1,6000,6000,Paid,Razorpay (Online)
+167,56,Term 2,6000,356,Overdue,
+168,56,Term 3,6000,6000,Paid,Razorpay (Online)
+169,57,Term 1,6000,6000,Paid,Razorpay (Online)
+170,57,Term 2,6000,6000,Paid,Razorpay (Online)
+171,57,Term 3,6000,6000,Paid,Razorpay (Online)
+172,58,Term 1,6000,6000,Paid,Razorpay (Online)
+173,58,Term 2,6000,2568,Overdue,
+174,58,Term 3,6000,6000,Paid,Cash
+175,59,Term 1,6000,0,Pending,
+176,59,Term 2,6000,6000,Paid,Cash
+177,59,Term 3,6000,6000,Paid,Razorpay (Online)
+178,60,Term 1,6000,6000,Paid,Razorpay (Online)
+179,60,Term 2,6000,6000,Paid,Razorpay (Online)
+180,60,Term 3,6000,6000,Paid,Cash
+181,61,Term 1,6000,6000,Paid,Razorpay (Online)
+182,61,Term 2,6000,6000,Paid,Bank Transfer
+183,61,Term 3,6000,6000,Paid,Cash
+184,62,Term 1,6000,6000,Paid,Razorpay (Online)
+185,62,Term 2,6000,6000,Paid,Cash
+186,62,Term 3,6000,0,Pending,
+187,63,Term 1,6000,130,Overdue,
+188,63,Term 2,6000,6000,Paid,Razorpay (Online)
+189,63,Term 3,6000,547,Overdue,
+190,64,Term 1,6000,6000,Paid,Bank Transfer
+191,64,Term 2,6000,0,Pending,
+192,64,Term 3,6000,6000,Paid,Razorpay (Online)
+193,65,Term 1,6000,6000,Paid,Razorpay (Online)
+194,65,Term 2,6000,6000,Paid,Razorpay (Online)
+195,65,Term 3,6000,6000,Paid,Cash
+196,66,Term 1,6000,6000,Paid,Razorpay (Online)
+197,66,Term 2,6000,6000,Paid,Razorpay (Online)
+198,66,Term 3,6000,6000,Paid,Razorpay (Online)
+199,67,Term 1,6000,6000,Paid,Bank Transfer
+200,67,Term 2,6000,6000,Paid,Cash
+201,67,Term 3,6000,6000,Paid,Razorpay (Online)
+202,68,Term 1,6000,6000,Paid,Razorpay (Online)
+203,68,Term 2,6000,6000,Paid,Razorpay (Online)
+204,68,Term 3,6000,6000,Paid,Razorpay (Online)
+205,69,Term 1,6000,6000,Paid,Bank Transfer
+206,69,Term 2,6000,1693,Overdue,
+207,69,Term 3,6000,6000,Paid,Bank Transfer
+208,70,Term 1,6000,6000,Paid,Cash
+209,70,Term 2,6000,6000,Paid,Razorpay (Online)
+210,70,Term 3,6000,2479,Overdue,
+211,71,Term 1,6000,6000,Paid,Bank Transfer
+212,71,Term 2,6000,6000,Paid,Cash
+213,71,Term 3,6000,6000,Paid,Cash
+214,72,Term 1,6000,6000,Paid,Razorpay (Online)
+215,72,Term 2,6000,0,Pending,
+216,72,Term 3,6000,6000,Paid,Razorpay (Online)
+217,73,Term 1,6000,6000,Paid,Cash
+218,73,Term 2,6000,6000,Paid,Bank Transfer
+219,73,Term 3,6000,6000,Paid,Razorpay (Online)
+220,74,Term 1,6000,0,Pending,
+221,74,Term 2,6000,6000,Paid,Bank Transfer
+222,74,Term 3,6000,6000,Paid,Cash
+223,75,Term 1,6000,6000,Paid,Razorpay (Online)
+224,75,Term 2,6000,6000,Paid,Razorpay (Online)
+225,75,Term 3,6000,857,Overdue,
+226,76,Term 1,6000,0,Pending,
+227,76,Term 2,6000,6000,Paid,Razorpay (Online)
+228,76,Term 3,6000,6000,Paid,Bank Transfer
+229,77,Term 1,6000,6000,Paid,Cash
+230,77,Term 2,6000,0,Pending,
+231,77,Term 3,6000,6000,Paid,Razorpay (Online)
+232,78,Term 1,6000,0,Pending,
+233,78,Term 2,6000,0,Pending,
+234,78,Term 3,6000,6000,Paid,Bank Transfer
+235,79,Term 1,6000,6000,Paid,Cash
+236,79,Term 2,6000,6000,Paid,Razorpay (Online)
+237,79,Term 3,6000,0,Pending,
+238,80,Term 1,6000,6000,Paid,Razorpay (Online)
+239,80,Term 2,6000,6000,Paid,Razorpay (Online)
+240,80,Term 3,6000,6000,Paid,Razorpay (Online)
+241,81,Term 1,6000,6000,Paid,Bank Transfer
+242,81,Term 2,6000,6000,Paid,Razorpay (Online)
+243,81,Term 3,6000,6000,Paid,Cash
+244,82,Term 1,6000,1621,Overdue,
+245,82,Term 2,6000,0,Pending,
+246,82,Term 3,6000,6000,Paid,Razorpay (Online)
+247,83,Term 1,6000,1405,Overdue,
+248,83,Term 2,6000,6000,Paid,Razorpay (Online)
+249,83,Term 3,6000,6000,Paid,Razorpay (Online)
+250,84,Term 1,6000,6000,Paid,Bank Transfer
+251,84,Term 2,6000,6000,Paid,Cash
+252,84,Term 3,6000,6000,Paid,Razorpay (Online)
+253,85,Term 1,6000,6000,Paid,Razorpay (Online)
+254,85,Term 2,6000,2122,Overdue,
+255,85,Term 3,6000,6000,Paid,Razorpay (Online)
+256,86,Term 1,6000,0,Pending,
+257,86,Term 2,6000,6000,Paid,Cash
+258,86,Term 3,6000,0,Pending,
+259,87,Term 1,6000,0,Pending,
+260,87,Term 2,6000,2352,Overdue,
+261,87,Term 3,6000,6000,Paid,Razorpay (Online)
+262,88,Term 1,6000,6000,Paid,Razorpay (Online)
+263,88,Term 2,6000,6000,Paid,Razorpay (Online)
+264,88,Term 3,6000,6000,Paid,Cash
+265,89,Term 1,6000,6000,Paid,Cash
+266,89,Term 2,6000,0,Pending,
+267,89,Term 3,6000,6000,Paid,Razorpay (Online)
+268,90,Term 1,6000,0,Pending,
+269,90,Term 2,6000,6000,Paid,Razorpay (Online)
+270,90,Term 3,6000,2923,Overdue,
+271,91,Term 1,6000,6000,Paid,Razorpay (Online)
+272,91,Term 2,6000,1972,Overdue,
+273,91,Term 3,6000,6000,Paid,Razorpay (Online)
+274,92,Term 1,6000,0,Pending,
+275,92,Term 2,6000,6000,Paid,Razorpay (Online)
+276,92,Term 3,6000,6000,Paid,Razorpay (Online)
+277,93,Term 1,6000,6000,Paid,Razorpay (Online)
+278,93,Term 2,6000,6000,Paid,Razorpay (Online)
+279,93,Term 3,6000,6000,Paid,Razorpay (Online)
+280,94,Term 1,6000,6000,Paid,Razorpay (Online)
+281,94,Term 2,6000,0,Pending,
+282,94,Term 3,6000,0,Pending,
+283,95,Term 1,6000,6000,Paid,Razorpay (Online)
+284,95,Term 2,6000,2816,Overdue,
+285,95,Term 3,6000,2168,Overdue,
+286,96,Term 1,6000,6000,Paid,Razorpay (Online)
+287,96,Term 2,6000,6000,Paid,Bank Transfer
+288,96,Term 3,6000,0,Pending,
+289,97,Term 1,6000,6000,Paid,Cash
+290,97,Term 2,6000,6000,Paid,Bank Transfer
+291,97,Term 3,6000,6000,Paid,Bank Transfer
+292,98,Term 1,6000,0,Pending,
+293,98,Term 2,6000,0,Pending,
+294,98,Term 3,6000,0,Pending,
+295,99,Term 1,6000,6000,Paid,Cash
+296,99,Term 2,6000,6000,Paid,Cash
+297,99,Term 3,6000,6000,Paid,Razorpay (Online)
+298,100,Term 1,6000,6000,Paid,Razorpay (Online)
+299,100,Term 2,6000,0,Pending,
+300,100,Term 3,6000,6000,Paid,Razorpay (Online)
+301,101,Term 1,6000,6000,Paid,Bank Transfer
+302,101,Term 2,6000,6000,Paid,Razorpay (Online)
+303,101,Term 3,6000,6000,Paid,Cash
+304,102,Term 1,6000,6000,Paid,Razorpay (Online)
+305,102,Term 2,6000,0,Pending,
+306,102,Term 3,6000,6000,Paid,Razorpay (Online)
+307,103,Term 1,6000,6000,Paid,Razorpay (Online)
+308,103,Term 2,6000,6000,Paid,Razorpay (Online)
+309,103,Term 3,6000,6000,Paid,Cash
+310,104,Term 1,6000,2582,Overdue,
+311,104,Term 2,6000,6000,Paid,Bank Transfer
+312,104,Term 3,6000,6000,Paid,Cash
+313,105,Term 1,6000,6000,Paid,Razorpay (Online)
+314,105,Term 2,6000,6000,Paid,Razorpay (Online)
+315,105,Term 3,6000,6000,Paid,Cash
+316,106,Term 1,6000,6000,Paid,Razorpay (Online)
+317,106,Term 2,6000,29,Overdue,
+318,106,Term 3,6000,6000,Paid,Razorpay (Online)
+319,107,Term 1,6000,6000,Paid,Razorpay (Online)
+320,107,Term 2,6000,6000,Paid,Razorpay (Online)
+321,107,Term 3,6000,6000,Paid,Cash
+322,108,Term 1,6000,2941,Overdue,
+323,108,Term 2,6000,6000,Paid,Cash
+324,108,Term 3,6000,0,Pending,
+325,109,Term 1,6000,6000,Paid,Razorpay (Online)
+326,109,Term 2,6000,6000,Paid,Cash
+327,109,Term 3,6000,6000,Paid,Razorpay (Online)
+328,110,Term 1,6000,0,Pending,
+329,110,Term 2,6000,378,Overdue,
+330,110,Term 3,6000,6000,Paid,Cash
+331,111,Term 1,6000,6000,Paid,Bank Transfer
+332,111,Term 2,6000,6000,Paid,Razorpay (Online)
+333,111,Term 3,6000,6000,Paid,Cash
+334,112,Term 1,6000,6000,Paid,Cash
+335,112,Term 2,6000,0,Pending,
+336,112,Term 3,6000,6000,Paid,Bank Transfer
+337,113,Term 1,6000,6000,Paid,Cash
+338,113,Term 2,6000,6000,Paid,Razorpay (Online)
+339,113,Term 3,6000,6000,Paid,Cash
+340,114,Term 1,6000,0,Pending,
+341,114,Term 2,6000,6000,Paid,Razorpay (Online)
+342,114,Term 3,6000,2194,Overdue,
+343,115,Term 1,6000,6000,Paid,Razorpay (Online)
+344,115,Term 2,6000,6000,Paid,Bank Transfer
+345,115,Term 3,6000,6000,Paid,Cash
+346,116,Term 1,6000,6000,Paid,Cash
+347,116,Term 2,6000,6000,Paid,Cash
+348,116,Term 3,6000,6000,Paid,Cash
+349,117,Term 1,6000,6000,Paid,Bank Transfer
+350,117,Term 2,6000,6000,Paid,Bank Transfer
+351,117,Term 3,6000,0,Pending,
+352,118,Term 1,6000,6000,Paid,Cash
+353,118,Term 2,6000,6000,Paid,Razorpay (Online)
+354,118,Term 3,6000,114,Overdue,
+355,119,Term 1,6000,0,Pending,
+356,119,Term 2,6000,6000,Paid,Cash
+357,119,Term 3,6000,6000,Paid,Cash
+358,120,Term 1,6000,0,Pending,
+359,120,Term 2,6000,6000,Paid,Razorpay (Online)
+360,120,Term 3,6000,1924,Overdue,
+361,121,Term 1,6000,6000,Paid,Razorpay (Online)
+362,121,Term 2,6000,6000,Paid,Bank Transfer
+363,121,Term 3,6000,6000,Paid,Bank Transfer
+364,122,Term 1,6000,715,Overdue,
+365,122,Term 2,6000,6000,Paid,Razorpay (Online)
+366,122,Term 3,6000,2749,Overdue,
+367,123,Term 1,6000,6000,Paid,Bank Transfer
+368,123,Term 2,6000,6000,Paid,Razorpay (Online)
+369,123,Term 3,6000,6000,Paid,Razorpay (Online)
+370,124,Term 1,6000,6000,Paid,Razorpay (Online)
+371,124,Term 2,6000,6000,Paid,Cash
+372,124,Term 3,6000,6000,Paid,Cash
+373,125,Term 1,6000,0,Pending,
+374,125,Term 2,6000,6000,Paid,Razorpay (Online)
+375,125,Term 3,6000,6000,Paid,Bank Transfer
+376,126,Term 1,6000,6000,Paid,Bank Transfer
+377,126,Term 2,6000,6000,Paid,Razorpay (Online)
+378,126,Term 3,6000,6000,Paid,Bank Transfer
+379,127,Term 1,6000,2601,Overdue,
+380,127,Term 2,6000,0,Pending,
+381,127,Term 3,6000,1090,Overdue,
+382,128,Term 1,6000,6000,Paid,Cash
+383,128,Term 2,6000,6000,Paid,Cash
+384,128,Term 3,6000,6000,Paid,Cash
+385,129,Term 1,6000,6000,Paid,Razorpay (Online)
+386,129,Term 2,6000,0,Pending,
+387,129,Term 3,6000,1784,Overdue,
+388,130,Term 1,6000,89,Overdue,
+389,130,Term 2,6000,6000,Paid,Cash
+390,130,Term 3,6000,6000,Paid,Cash
+391,131,Term 1,6000,6000,Paid,Razorpay (Online)
+392,131,Term 2,6000,6000,Paid,Razorpay (Online)
+393,131,Term 3,6000,6000,Paid,Razorpay (Online)
+394,132,Term 1,6000,1707,Overdue,
+395,132,Term 2,6000,0,Pending,
+396,132,Term 3,6000,6000,Paid,Razorpay (Online)
+397,133,Term 1,6000,6000,Paid,Cash
+398,133,Term 2,6000,0,Pending,
+399,133,Term 3,6000,6000,Paid,Razorpay (Online)
+400,134,Term 1,6000,6000,Paid,Cash
+401,134,Term 2,6000,6000,Paid,Razorpay (Online)
+402,134,Term 3,6000,0,Pending,
+403,135,Term 1,6000,956,Overdue,
+404,135,Term 2,6000,6000,Paid,Razorpay (Online)
+405,135,Term 3,6000,6000,Paid,Razorpay (Online)
+406,136,Term 1,6000,6000,Paid,Cash
+407,136,Term 2,6000,6000,Paid,Cash
+408,136,Term 3,6000,6000,Paid,Razorpay (Online)
+409,137,Term 1,6000,6000,Paid,Razorpay (Online)
+410,137,Term 2,6000,6000,Paid,Razorpay (Online)
+411,137,Term 3,6000,6000,Paid,Cash
+412,138,Term 1,6000,6000,Paid,Razorpay (Online)
+413,138,Term 2,6000,0,Pending,
+414,138,Term 3,6000,0,Pending,
+415,139,Term 1,6000,6000,Paid,Razorpay (Online)
+416,139,Term 2,6000,6000,Paid,Razorpay (Online)
+417,139,Term 3,6000,0,Pending,
+418,140,Term 1,6000,6000,Paid,Razorpay (Online)
+419,140,Term 2,6000,0,Pending,
+420,140,Term 3,6000,6000,Paid,Cash
+421,141,Term 1,6000,6000,Paid,Cash
+422,141,Term 2,6000,0,Pending,
+423,141,Term 3,6000,0,Pending,
+424,142,Term 1,6000,6000,Paid,Razorpay (Online)
+425,142,Term 2,6000,6000,Paid,Razorpay (Online)
+426,142,Term 3,6000,6000,Paid,Cash
+427,143,Term 1,6000,6000,Paid,Cash
+428,143,Term 2,6000,6000,Paid,Razorpay (Online)
+429,143,Term 3,6000,0,Pending,
+430,144,Term 1,6000,6000,Paid,Razorpay (Online)
+431,144,Term 2,6000,6000,Paid,Cash
+432,144,Term 3,6000,6000,Paid,Razorpay (Online)
+433,145,Term 1,6000,1681,Overdue,
+434,145,Term 2,6000,6000,Paid,Razorpay (Online)
+435,145,Term 3,6000,0,Pending,
+436,146,Term 1,6000,6000,Paid,Razorpay (Online)
+437,146,Term 2,6000,6000,Paid,Razorpay (Online)
+438,146,Term 3,6000,6000,Paid,Razorpay (Online)
+439,147,Term 1,6000,6000,Paid,Razorpay (Online)
+440,147,Term 2,6000,6000,Paid,Cash
+441,147,Term 3,6000,6000,Paid,Cash
+442,148,Term 1,6000,6000,Paid,Razorpay (Online)
+443,148,Term 2,6000,0,Pending,
+444,148,Term 3,6000,6000,Paid,Cash
+445,149,Term 1,6000,6000,Paid,Razorpay (Online)
+446,149,Term 2,6000,6000,Paid,Cash
+447,149,Term 3,6000,6000,Paid,Cash
+448,150,Term 1,6000,0,Pending,
+449,150,Term 2,6000,6000,Paid,Cash
+450,150,Term 3,6000,6000,Paid,Cash
+451,151,Term 1,6000,0,Pending,
+452,151,Term 2,6000,6000,Paid,Razorpay (Online)
+453,151,Term 3,6000,6000,Paid,Razorpay (Online)
+454,152,Term 1,6000,6000,Paid,Razorpay (Online)
+455,152,Term 2,6000,6000,Paid,Bank Transfer
+456,152,Term 3,6000,6000,Paid,Razorpay (Online)
+457,153,Term 1,6000,2458,Overdue,
+458,153,Term 2,6000,6000,Paid,Razorpay (Online)
+459,153,Term 3,6000,6000,Paid,Razorpay (Online)
+460,154,Term 1,6000,6000,Paid,Razorpay (Online)
+461,154,Term 2,6000,6000,Paid,Razorpay (Online)
+462,154,Term 3,6000,855,Overdue,
+463,155,Term 1,6000,6000,Paid,Razorpay (Online)
+464,155,Term 2,6000,2112,Overdue,
+465,155,Term 3,6000,6000,Paid,Cash
+466,156,Term 1,6000,6000,Paid,Razorpay (Online)
+467,156,Term 2,6000,0,Pending,
+468,156,Term 3,6000,6000,Paid,Razorpay (Online)
+469,157,Term 1,6000,6000,Paid,Bank Transfer
+470,157,Term 2,6000,6000,Paid,Razorpay (Online)
+471,157,Term 3,6000,0,Pending,
+472,158,Term 1,6000,6000,Paid,Cash
+473,158,Term 2,6000,6000,Paid,Razorpay (Online)
+474,158,Term 3,6000,6000,Paid,Cash
+475,159,Term 1,6000,6000,Paid,Razorpay (Online)
+476,159,Term 2,6000,0,Pending,
+477,159,Term 3,6000,1163,Overdue,
+478,160,Term 1,6000,6000,Paid,Cash
+479,160,Term 2,6000,0,Pending,
+480,160,Term 3,6000,0,Pending,
+481,161,Term 1,6000,6000,Paid,Razorpay (Online)
+482,161,Term 2,6000,6000,Paid,Razorpay (Online)
+483,161,Term 3,6000,6000,Paid,Bank Transfer
+484,162,Term 1,6000,6000,Paid,Cash
+485,162,Term 2,6000,0,Pending,
+486,162,Term 3,6000,6000,Paid,Razorpay (Online)
+487,163,Term 1,6000,6000,Paid,Razorpay (Online)
+488,163,Term 2,6000,6000,Paid,Cash
+489,163,Term 3,6000,6000,Paid,Razorpay (Online)
+490,164,Term 1,6000,0,Pending,
+491,164,Term 2,6000,0,Pending,
+492,164,Term 3,6000,6000,Paid,Cash
+493,165,Term 1,6000,6000,Paid,Razorpay (Online)
+494,165,Term 2,6000,6000,Paid,Cash
+495,165,Term 3,6000,6000,Paid,Razorpay (Online)
+496,166,Term 1,6000,6000,Paid,Cash
+497,166,Term 2,6000,585,Overdue,
+498,166,Term 3,6000,0,Pending,
+499,167,Term 1,6000,0,Pending,
+500,167,Term 2,6000,6000,Paid,Cash
+501,167,Term 3,6000,6000,Paid,Razorpay (Online)
+502,168,Term 1,6000,6000,Paid,Razorpay (Online)
+503,168,Term 2,6000,0,Pending,
+504,168,Term 3,6000,0,Pending,
+505,169,Term 1,6000,6000,Paid,Razorpay (Online)
+506,169,Term 2,6000,6000,Paid,Bank Transfer
+507,169,Term 3,6000,6000,Paid,Razorpay (Online)
+508,170,Term 1,6000,6000,Paid,Cash
+509,170,Term 2,6000,868,Overdue,
+510,170,Term 3,6000,6000,Paid,Cash
+511,171,Term 1,6000,6000,Paid,Razorpay (Online)
+512,171,Term 2,6000,6000,Paid,Razorpay (Online)
+513,171,Term 3,6000,6000,Paid,Razorpay (Online)
+514,172,Term 1,6000,6000,Paid,Razorpay (Online)
+515,172,Term 2,6000,6000,Paid,Razorpay (Online)
+516,172,Term 3,6000,6000,Paid,Cash
+517,173,Term 1,6000,371,Overdue,
+518,173,Term 2,6000,781,Overdue,
+519,173,Term 3,6000,0,Pending,
+520,174,Term 1,6000,6000,Paid,Razorpay (Online)
+521,174,Term 2,6000,6000,Paid,Cash
+522,174,Term 3,6000,6000,Paid,Razorpay (Online)
+523,175,Term 1,6000,6000,Paid,Razorpay (Online)
+524,175,Term 2,6000,0,Pending,
+525,175,Term 3,6000,6000,Paid,Razorpay (Online)
+526,176,Term 1,6000,6000,Paid,Bank Transfer
+527,176,Term 2,6000,6000,Paid,Bank Transfer
+528,176,Term 3,6000,2442,Overdue,
+529,177,Term 1,6000,6000,Paid,Cash
+530,177,Term 2,6000,6000,Paid,Razorpay (Online)
+531,177,Term 3,6000,2869,Overdue,
+532,178,Term 1,6000,6000,Paid,Razorpay (Online)
+533,178,Term 2,6000,1170,Overdue,
+534,178,Term 3,6000,1885,Overdue,
+535,179,Term 1,6000,6000,Paid,Razorpay (Online)
+536,179,Term 2,6000,6000,Paid,Razorpay (Online)
+537,179,Term 3,6000,6000,Paid,Bank Transfer
+538,180,Term 1,6000,6000,Paid,Bank Transfer
+539,180,Term 2,6000,670,Overdue,
+540,180,Term 3,6000,6000,Paid,Cash
+541,181,Term 1,6667,0,Pending,
+542,181,Term 2,6667,6667,Paid,Razorpay (Online)
+543,181,Term 3,6667,6667,Paid,Razorpay (Online)
+544,182,Term 1,6667,6667,Paid,Razorpay (Online)
+545,182,Term 2,6667,0,Pending,
+546,182,Term 3,6667,6667,Paid,Cash
+547,183,Term 1,6667,6667,Paid,Razorpay (Online)
+548,183,Term 2,6667,964,Overdue,
+549,183,Term 3,6667,6667,Paid,Razorpay (Online)
+550,184,Term 1,6667,6667,Paid,Bank Transfer
+551,184,Term 2,6667,6667,Paid,Razorpay (Online)
+552,184,Term 3,6667,6667,Paid,Razorpay (Online)
+553,185,Term 1,6667,6667,Paid,Cash
+554,185,Term 2,6667,6667,Paid,Cash
+555,185,Term 3,6667,6667,Paid,Razorpay (Online)
+556,186,Term 1,6667,6667,Paid,Cash
+557,186,Term 2,6667,0,Pending,
+558,186,Term 3,6667,6667,Paid,Cash
+559,187,Term 1,6667,6667,Paid,Cash
+560,187,Term 2,6667,6667,Paid,Razorpay (Online)
+561,187,Term 3,6667,0,Pending,
+562,188,Term 1,6667,2742,Overdue,
+563,188,Term 2,6667,6667,Paid,Razorpay (Online)
+564,188,Term 3,6667,0,Pending,
+565,189,Term 1,6667,700,Overdue,
+566,189,Term 2,6667,6667,Paid,Cash
+567,189,Term 3,6667,6667,Paid,Razorpay (Online)
+568,190,Term 1,6667,6667,Paid,Cash
+569,190,Term 2,6667,6667,Paid,Razorpay (Online)
+570,190,Term 3,6667,2226,Overdue,
+571,191,Term 1,6667,6667,Paid,Bank Transfer
+572,191,Term 2,6667,6667,Paid,Razorpay (Online)
+573,191,Term 3,6667,0,Pending,
+574,192,Term 1,6667,6667,Paid,Razorpay (Online)
+575,192,Term 2,6667,6667,Paid,Cash
+576,192,Term 3,6667,6667,Paid,Razorpay (Online)
+577,193,Term 1,6667,1261,Overdue,
+578,193,Term 2,6667,6667,Paid,Razorpay (Online)
+579,193,Term 3,6667,6667,Paid,Razorpay (Online)
+580,194,Term 1,6667,6667,Paid,Cash
+581,194,Term 2,6667,6667,Paid,Bank Transfer
+582,194,Term 3,6667,6667,Paid,Bank Transfer
+583,195,Term 1,6667,6667,Paid,Razorpay (Online)
+584,195,Term 2,6667,6667,Paid,Cash
+585,195,Term 3,6667,6667,Paid,Bank Transfer
+586,196,Term 1,6667,6667,Paid,Razorpay (Online)
+587,196,Term 2,6667,0,Pending,
+588,196,Term 3,6667,0,Pending,
+589,197,Term 1,6667,6667,Paid,Razorpay (Online)
+590,197,Term 2,6667,2370,Overdue,
+591,197,Term 3,6667,6667,Paid,Razorpay (Online)
+592,198,Term 1,6667,6667,Paid,Razorpay (Online)
+593,198,Term 2,6667,6667,Paid,Razorpay (Online)
+594,198,Term 3,6667,6667,Paid,Razorpay (Online)
+595,199,Term 1,6667,6667,Paid,Bank Transfer
+596,199,Term 2,6667,6667,Paid,Razorpay (Online)
+597,199,Term 3,6667,0,Pending,
+598,200,Term 1,6667,6667,Paid,Bank Transfer
+599,200,Term 2,6667,6667,Paid,Razorpay (Online)
+600,200,Term 3,6667,6667,Paid,Razorpay (Online)
+601,201,Term 1,6667,0,Pending,
+602,201,Term 2,6667,6667,Paid,Bank Transfer
+603,201,Term 3,6667,6667,Paid,Cash
+604,202,Term 1,6667,0,Pending,
+605,202,Term 2,6667,6667,Paid,Razorpay (Online)
+606,202,Term 3,6667,6667,Paid,Cash
+607,203,Term 1,6667,0,Pending,
+608,203,Term 2,6667,6667,Paid,Razorpay (Online)
+609,203,Term 3,6667,1010,Overdue,
+610,204,Term 1,6667,6667,Paid,Razorpay (Online)
+611,204,Term 2,6667,6667,Paid,Bank Transfer
+612,204,Term 3,6667,0,Pending,
+613,205,Term 1,6667,6667,Paid,Cash
+614,205,Term 2,6667,6667,Paid,Razorpay (Online)
+615,205,Term 3,6667,754,Overdue,
+616,206,Term 1,6667,6667,Paid,Bank Transfer
+617,206,Term 2,6667,6667,Paid,Razorpay (Online)
+618,206,Term 3,6667,6667,Paid,Razorpay (Online)
+619,207,Term 1,6667,6667,Paid,Razorpay (Online)
+620,207,Term 2,6667,6667,Paid,Bank Transfer
+621,207,Term 3,6667,6667,Paid,Razorpay (Online)
+622,208,Term 1,6667,6667,Paid,Cash
+623,208,Term 2,6667,795,Overdue,
+624,208,Term 3,6667,6667,Paid,Razorpay (Online)
+625,209,Term 1,6667,2073,Overdue,
+626,209,Term 2,6667,6667,Paid,Cash
+627,209,Term 3,6667,1128,Overdue,
+628,210,Term 1,6667,6667,Paid,Razorpay (Online)
+629,210,Term 2,6667,6667,Paid,Cash
+630,210,Term 3,6667,0,Pending,
+631,211,Term 1,6667,0,Pending,
+632,211,Term 2,6667,6667,Paid,Bank Transfer
+633,211,Term 3,6667,6667,Paid,Bank Transfer
+634,212,Term 1,6667,0,Pending,
+635,212,Term 2,6667,6667,Paid,Cash
+636,212,Term 3,6667,3185,Overdue,
+637,213,Term 1,6667,6667,Paid,Razorpay (Online)
+638,213,Term 2,6667,6667,Paid,Bank Transfer
+639,213,Term 3,6667,1446,Overdue,
+640,214,Term 1,6667,6667,Paid,Cash
+641,214,Term 2,6667,0,Pending,
+642,214,Term 3,6667,6667,Paid,Cash
+643,215,Term 1,6667,6667,Paid,Cash
+644,215,Term 2,6667,6667,Paid,Cash
+645,215,Term 3,6667,6667,Paid,Cash
+646,216,Term 1,6667,6667,Paid,Cash
+647,216,Term 2,6667,6667,Paid,Razorpay (Online)
+648,216,Term 3,6667,6667,Paid,Bank Transfer
+649,217,Term 1,6667,6667,Paid,Bank Transfer
+650,217,Term 2,6667,6667,Paid,Razorpay (Online)
+651,217,Term 3,6667,6667,Paid,Cash
+652,218,Term 1,6667,6667,Paid,Razorpay (Online)
+653,218,Term 2,6667,0,Pending,
+654,218,Term 3,6667,6667,Paid,Razorpay (Online)
+655,219,Term 1,6667,0,Pending,
+656,219,Term 2,6667,6667,Paid,Razorpay (Online)
+657,219,Term 3,6667,6667,Paid,Cash
+658,220,Term 1,6667,6667,Paid,Cash
+659,220,Term 2,6667,6667,Paid,Cash
+660,220,Term 3,6667,6667,Paid,Razorpay (Online)
+661,221,Term 1,6667,6667,Paid,Cash
+662,221,Term 2,6667,6667,Paid,Razorpay (Online)
+663,221,Term 3,6667,6667,Paid,Razorpay (Online)
+664,222,Term 1,6667,1456,Overdue,
+665,222,Term 2,6667,6667,Paid,Razorpay (Online)
+666,222,Term 3,6667,0,Pending,
+667,223,Term 1,6667,6667,Paid,Cash
+668,223,Term 2,6667,6667,Paid,Razorpay (Online)
+669,223,Term 3,6667,0,Pending,
+670,224,Term 1,6667,6667,Paid,Cash
+671,224,Term 2,6667,6667,Paid,Bank Transfer
+672,224,Term 3,6667,6667,Paid,Cash
+673,225,Term 1,6667,6667,Paid,Cash
+674,225,Term 2,6667,2972,Overdue,
+675,225,Term 3,6667,0,Pending,
+676,226,Term 1,6667,6667,Paid,Razorpay (Online)
+677,226,Term 2,6667,6667,Paid,Razorpay (Online)
+678,226,Term 3,6667,6667,Paid,Razorpay (Online)
+679,227,Term 1,6667,6667,Paid,Cash
+680,227,Term 2,6667,6667,Paid,Razorpay (Online)
+681,227,Term 3,6667,6667,Paid,Cash
+682,228,Term 1,6667,6667,Paid,Cash
+683,228,Term 2,6667,6667,Paid,Cash
+684,228,Term 3,6667,0,Pending,
+685,229,Term 1,6667,6667,Paid,Cash
+686,229,Term 2,6667,1771,Overdue,
+687,229,Term 3,6667,2172,Overdue,
+688,230,Term 1,6667,6667,Paid,Razorpay (Online)
+689,230,Term 2,6667,6667,Paid,Bank Transfer
+690,230,Term 3,6667,0,Pending,
+691,231,Term 1,6667,6667,Paid,Razorpay (Online)
+692,231,Term 2,6667,6667,Paid,Razorpay (Online)
+693,231,Term 3,6667,6667,Paid,Razorpay (Online)
+694,232,Term 1,6667,6667,Paid,Razorpay (Online)
+695,232,Term 2,6667,947,Overdue,
+696,232,Term 3,6667,6667,Paid,Razorpay (Online)
+697,233,Term 1,6667,6667,Paid,Bank Transfer
+698,233,Term 2,6667,6667,Paid,Razorpay (Online)
+699,233,Term 3,6667,0,Pending,
+700,234,Term 1,6667,6667,Paid,Razorpay (Online)
+701,234,Term 2,6667,6667,Paid,Cash
+702,234,Term 3,6667,6667,Paid,Razorpay (Online)
+703,235,Term 1,6667,0,Pending,
+704,235,Term 2,6667,1312,Overdue,
+705,235,Term 3,6667,6667,Paid,Cash
+706,236,Term 1,6667,6667,Paid,Razorpay (Online)
+707,236,Term 2,6667,6667,Paid,Razorpay (Online)
+708,236,Term 3,6667,6667,Paid,Bank Transfer
+709,237,Term 1,6667,6667,Paid,Cash
+710,237,Term 2,6667,6667,Paid,Bank Transfer
+711,237,Term 3,6667,6667,Paid,Bank Transfer
+712,238,Term 1,6667,0,Pending,
+713,238,Term 2,6667,6667,Paid,Cash
+714,238,Term 3,6667,6667,Paid,Razorpay (Online)
+715,239,Term 1,6667,6667,Paid,Bank Transfer
+716,239,Term 2,6667,6667,Paid,Razorpay (Online)
+717,239,Term 3,6667,6667,Paid,Razorpay (Online)
+718,240,Term 1,6667,6667,Paid,Bank Transfer
+719,240,Term 2,6667,6667,Paid,Razorpay (Online)
+720,240,Term 3,6667,2064,Overdue,
+721,241,Term 1,6667,2087,Overdue,
+722,241,Term 2,6667,2303,Overdue,
+723,241,Term 3,6667,0,Pending,
+724,242,Term 1,6667,6667,Paid,Razorpay (Online)
+725,242,Term 2,6667,6667,Paid,Cash
+726,242,Term 3,6667,6667,Paid,Cash
+727,243,Term 1,6667,2979,Overdue,
+728,243,Term 2,6667,6667,Paid,Razorpay (Online)
+729,243,Term 3,6667,6667,Paid,Razorpay (Online)
+730,244,Term 1,6667,0,Pending,
+731,244,Term 2,6667,6667,Paid,Bank Transfer
+732,244,Term 3,6667,6667,Paid,Razorpay (Online)
+733,245,Term 1,6667,0,Pending,
+734,245,Term 2,6667,6667,Paid,Razorpay (Online)
+735,245,Term 3,6667,0,Pending,
+736,246,Term 1,6667,0,Pending,
+737,246,Term 2,6667,6667,Paid,Cash
+738,246,Term 3,6667,6667,Paid,Bank Transfer
+739,247,Term 1,6667,3311,Overdue,
+740,247,Term 2,6667,0,Pending,
+741,247,Term 3,6667,6667,Paid,Razorpay (Online)
+742,248,Term 1,6667,6667,Paid,Cash
+743,248,Term 2,6667,0,Pending,
+744,248,Term 3,6667,6667,Paid,Razorpay (Online)
+745,249,Term 1,6667,6667,Paid,Razorpay (Online)
+746,249,Term 2,6667,6667,Paid,Razorpay (Online)
+747,249,Term 3,6667,6667,Paid,Razorpay (Online)
+748,250,Term 1,6667,6667,Paid,Razorpay (Online)
+749,250,Term 2,6667,6667,Paid,Razorpay (Online)
+750,250,Term 3,6667,0,Pending,
+751,251,Term 1,6667,0,Pending,
+752,251,Term 2,6667,6667,Paid,Razorpay (Online)
+753,251,Term 3,6667,0,Pending,
+754,252,Term 1,6667,6667,Paid,Razorpay (Online)
+755,252,Term 2,6667,0,Pending,
+756,252,Term 3,6667,6667,Paid,Razorpay (Online)
+757,253,Term 1,6667,6667,Paid,Razorpay (Online)
+758,253,Term 2,6667,6667,Paid,Cash
+759,253,Term 3,6667,6667,Paid,Razorpay (Online)
+760,254,Term 1,6667,6667,Paid,Bank Transfer
+761,254,Term 2,6667,6667,Paid,Razorpay (Online)
+762,254,Term 3,6667,2207,Overdue,
+763,255,Term 1,6667,6667,Paid,Razorpay (Online)
+764,255,Term 2,6667,6667,Paid,Razorpay (Online)
+765,255,Term 3,6667,6667,Paid,Razorpay (Online)
+766,256,Term 1,6667,6667,Paid,Razorpay (Online)
+767,256,Term 2,6667,2329,Overdue,
+768,256,Term 3,6667,6667,Paid,Bank Transfer
+769,257,Term 1,6667,6667,Paid,Cash
+770,257,Term 2,6667,6667,Paid,Razorpay (Online)
+771,257,Term 3,6667,6667,Paid,Razorpay (Online)
+772,258,Term 1,6667,0,Pending,
+773,258,Term 2,6667,6667,Paid,Razorpay (Online)
+774,258,Term 3,6667,0,Pending,
+775,259,Term 1,6667,6667,Paid,Razorpay (Online)
+776,259,Term 2,6667,6667,Paid,Razorpay (Online)
+777,259,Term 3,6667,6667,Paid,Razorpay (Online)
+778,260,Term 1,6667,6667,Paid,Razorpay (Online)
+779,260,Term 2,6667,6667,Paid,Razorpay (Online)
+780,260,Term 3,6667,0,Pending,
+781,261,Term 1,6667,6667,Paid,Razorpay (Online)
+782,261,Term 2,6667,6667,Paid,Razorpay (Online)
+783,261,Term 3,6667,6667,Paid,Razorpay (Online)
+784,262,Term 1,6667,6667,Paid,Bank Transfer
+785,262,Term 2,6667,6667,Paid,Razorpay (Online)
+786,262,Term 3,6667,6667,Paid,Razorpay (Online)
+787,263,Term 1,6667,0,Pending,
+788,263,Term 2,6667,6667,Paid,Bank Transfer
+789,263,Term 3,6667,6667,Paid,Cash
+790,264,Term 1,6667,6667,Paid,Cash
+791,264,Term 2,6667,6667,Paid,Bank Transfer
+792,264,Term 3,6667,6667,Paid,Razorpay (Online)
+793,265,Term 1,6667,6667,Paid,Razorpay (Online)
+794,265,Term 2,6667,1178,Overdue,
+795,265,Term 3,6667,6667,Paid,Razorpay (Online)
+796,266,Term 1,6667,6667,Paid,Razorpay (Online)
+797,266,Term 2,6667,6667,Paid,Cash
+798,266,Term 3,6667,1088,Overdue,
+799,267,Term 1,6667,6667,Paid,Razorpay (Online)
+800,267,Term 2,6667,3052,Overdue,
+801,267,Term 3,6667,0,Pending,
+802,268,Term 1,6667,6667,Paid,Razorpay (Online)
+803,268,Term 2,6667,6667,Paid,Cash
+804,268,Term 3,6667,6667,Paid,Bank Transfer
+805,269,Term 1,6667,0,Pending,
+806,269,Term 2,6667,6667,Paid,Cash
+807,269,Term 3,6667,0,Pending,
+808,270,Term 1,6667,6667,Paid,Razorpay (Online)
+809,270,Term 2,6667,6667,Paid,Bank Transfer
+810,270,Term 3,6667,6667,Paid,Bank Transfer
+811,271,Term 1,6667,6667,Paid,Cash
+812,271,Term 2,6667,6667,Paid,Cash
+813,271,Term 3,6667,0,Pending,
+814,272,Term 1,6667,6667,Paid,Bank Transfer
+815,272,Term 2,6667,0,Pending,
+816,272,Term 3,6667,6667,Paid,Razorpay (Online)
+817,273,Term 1,6667,6667,Paid,Cash
+818,273,Term 2,6667,0,Pending,
+819,273,Term 3,6667,6667,Paid,Bank Transfer
+820,274,Term 1,6667,6667,Paid,Razorpay (Online)
+821,274,Term 2,6667,0,Pending,
+822,274,Term 3,6667,6667,Paid,Razorpay (Online)
+823,275,Term 1,6667,6667,Paid,Bank Transfer
+824,275,Term 2,6667,6667,Paid,Razorpay (Online)
+825,275,Term 3,6667,6667,Paid,Bank Transfer
+826,276,Term 1,6667,6667,Paid,Razorpay (Online)
+827,276,Term 2,6667,0,Pending,
+828,276,Term 3,6667,6667,Paid,Razorpay (Online)
+829,277,Term 1,6667,6667,Paid,Cash
+830,277,Term 2,6667,6667,Paid,Cash
+831,277,Term 3,6667,6667,Paid,Razorpay (Online)
+832,278,Term 1,6667,6667,Paid,Razorpay (Online)
+833,278,Term 2,6667,6667,Paid,Razorpay (Online)
+834,278,Term 3,6667,6667,Paid,Razorpay (Online)
+835,279,Term 1,6667,0,Pending,
+836,279,Term 2,6667,6667,Paid,Cash
+837,279,Term 3,6667,462,Overdue,
+838,280,Term 1,6667,0,Pending,
+839,280,Term 2,6667,6667,Paid,Razorpay (Online)
+840,280,Term 3,6667,0,Pending,
+841,281,Term 1,6667,0,Pending,
+842,281,Term 2,6667,6667,Paid,Razorpay (Online)
+843,281,Term 3,6667,0,Pending,
+844,282,Term 1,6667,0,Pending,
+845,282,Term 2,6667,6667,Paid,Cash
+846,282,Term 3,6667,6667,Paid,Cash
+847,283,Term 1,6667,6667,Paid,Razorpay (Online)
+848,283,Term 2,6667,6667,Paid,Razorpay (Online)
+849,283,Term 3,6667,6667,Paid,Razorpay (Online)
+850,284,Term 1,6667,6667,Paid,Bank Transfer
+851,284,Term 2,6667,6667,Paid,Cash
+852,284,Term 3,6667,0,Pending,
+853,285,Term 1,6667,0,Pending,
+854,285,Term 2,6667,1699,Overdue,
+855,285,Term 3,6667,6667,Paid,Razorpay (Online)
+856,286,Term 1,6667,6667,Paid,Razorpay (Online)
+857,286,Term 2,6667,6667,Paid,Razorpay (Online)
+858,286,Term 3,6667,6667,Paid,Cash
+859,287,Term 1,6667,6667,Paid,Razorpay (Online)
+860,287,Term 2,6667,0,Pending,
+861,287,Term 3,6667,6667,Paid,Cash
+862,288,Term 1,6667,3014,Overdue,
+863,288,Term 2,6667,6667,Paid,Razorpay (Online)
+864,288,Term 3,6667,6667,Paid,Cash
+865,289,Term 1,6667,6667,Paid,Cash
+866,289,Term 2,6667,6667,Paid,Bank Transfer
+867,289,Term 3,6667,6667,Paid,Bank Transfer
+868,290,Term 1,6667,6667,Paid,Razorpay (Online)
+869,290,Term 2,6667,6667,Paid,Cash
+870,290,Term 3,6667,6667,Paid,Cash
+871,291,Term 1,6667,6667,Paid,Razorpay (Online)
+872,291,Term 2,6667,6667,Paid,Bank Transfer
+873,291,Term 3,6667,6667,Paid,Razorpay (Online)
+874,292,Term 1,6667,0,Pending,
+875,292,Term 2,6667,1917,Overdue,
+876,292,Term 3,6667,6667,Paid,Razorpay (Online)
+877,293,Term 1,6667,6667,Paid,Razorpay (Online)
+878,293,Term 2,6667,6667,Paid,Bank Transfer
+879,293,Term 3,6667,6667,Paid,Razorpay (Online)
+880,294,Term 1,6667,6667,Paid,Razorpay (Online)
+881,294,Term 2,6667,6667,Paid,Razorpay (Online)
+882,294,Term 3,6667,6667,Paid,Cash
+883,295,Term 1,6667,6667,Paid,Bank Transfer
+884,295,Term 2,6667,6667,Paid,Bank Transfer
+885,295,Term 3,6667,6667,Paid,Bank Transfer
+886,296,Term 1,6667,6667,Paid,Razorpay (Online)
+887,296,Term 2,6667,6667,Paid,Cash
+888,296,Term 3,6667,0,Pending,
+889,297,Term 1,6667,2305,Overdue,
+890,297,Term 2,6667,6667,Paid,Bank Transfer
+891,297,Term 3,6667,75,Overdue,
+892,298,Term 1,6667,6667,Paid,Razorpay (Online)
+893,298,Term 2,6667,0,Pending,
+894,298,Term 3,6667,6667,Paid,Razorpay (Online)
+895,299,Term 1,6667,6667,Paid,Razorpay (Online)
+896,299,Term 2,6667,6667,Paid,Razorpay (Online)
+897,299,Term 3,6667,0,Pending,
+898,300,Term 1,6667,6667,Paid,Razorpay (Online)
+899,300,Term 2,6667,6667,Paid,Razorpay (Online)
+900,300,Term 3,6667,2889,Overdue,
+901,301,Term 1,6667,6667,Paid,Razorpay (Online)
+902,301,Term 2,6667,6667,Paid,Razorpay (Online)
+903,301,Term 3,6667,3214,Overdue,
+904,302,Term 1,6667,6667,Paid,Razorpay (Online)
+905,302,Term 2,6667,1679,Overdue,
+906,302,Term 3,6667,0,Pending,
+907,303,Term 1,6667,6667,Paid,Razorpay (Online)
+908,303,Term 2,6667,6667,Paid,Razorpay (Online)
+909,303,Term 3,6667,1056,Overdue,
+910,304,Term 1,6667,0,Pending,
+911,304,Term 2,6667,1165,Overdue,
+912,304,Term 3,6667,6667,Paid,Razorpay (Online)
+913,305,Term 1,6667,0,Pending,
+914,305,Term 2,6667,6667,Paid,Razorpay (Online)
+915,305,Term 3,6667,6667,Paid,Razorpay (Online)
+916,306,Term 1,6667,6667,Paid,Razorpay (Online)
+917,306,Term 2,6667,0,Pending,
+918,306,Term 3,6667,6667,Paid,Razorpay (Online)
+919,307,Term 1,6667,6667,Paid,Cash
+920,307,Term 2,6667,6667,Paid,Cash
+921,307,Term 3,6667,897,Overdue,
+922,308,Term 1,6667,6667,Paid,Cash
+923,308,Term 2,6667,6667,Paid,Razorpay (Online)
+924,308,Term 3,6667,6667,Paid,Bank Transfer
+925,309,Term 1,6667,6667,Paid,Razorpay (Online)
+926,309,Term 2,6667,0,Pending,
+927,309,Term 3,6667,1376,Overdue,
+928,310,Term 1,6667,6667,Paid,Cash
+929,310,Term 2,6667,3130,Overdue,
+930,310,Term 3,6667,6667,Paid,Razorpay (Online)
+931,311,Term 1,6667,6667,Paid,Bank Transfer
+932,311,Term 2,6667,6667,Paid,Cash
+933,311,Term 3,6667,6667,Paid,Razorpay (Online)
+934,312,Term 1,6667,2962,Overdue,
+935,312,Term 2,6667,0,Pending,
+936,312,Term 3,6667,6667,Paid,Razorpay (Online)
+937,313,Term 1,6667,6667,Paid,Cash
+938,313,Term 2,6667,6667,Paid,Cash
+939,313,Term 3,6667,6667,Paid,Razorpay (Online)
+940,314,Term 1,6667,6667,Paid,Cash
+941,314,Term 2,6667,0,Pending,
+942,314,Term 3,6667,6667,Paid,Razorpay (Online)
+943,315,Term 1,6667,6667,Paid,Bank Transfer
+944,315,Term 2,6667,0,Pending,
+945,315,Term 3,6667,6667,Paid,Razorpay (Online)
+946,316,Term 1,6667,6667,Paid,Razorpay (Online)
+947,316,Term 2,6667,6667,Paid,Cash
+948,316,Term 3,6667,6667,Paid,Razorpay (Online)
+949,317,Term 1,6667,6667,Paid,Razorpay (Online)
+950,317,Term 2,6667,6667,Paid,Razorpay (Online)
+951,317,Term 3,6667,6667,Paid,Cash
+952,318,Term 1,6667,0,Pending,
+953,318,Term 2,6667,6667,Paid,Bank Transfer
+954,318,Term 3,6667,6667,Paid,Bank Transfer
+955,319,Term 1,6667,6667,Paid,Bank Transfer
+956,319,Term 2,6667,6667,Paid,Razorpay (Online)
+957,319,Term 3,6667,6667,Paid,Bank Transfer
+958,320,Term 1,6667,513,Overdue,
+959,320,Term 2,6667,6667,Paid,Razorpay (Online)
+960,320,Term 3,6667,6667,Paid,Razorpay (Online)
+961,321,Term 1,6667,0,Pending,
+962,321,Term 2,6667,6667,Paid,Cash
+963,321,Term 3,6667,6667,Paid,Razorpay (Online)
+964,322,Term 1,6667,6667,Paid,Razorpay (Online)
+965,322,Term 2,6667,6667,Paid,Cash
+966,322,Term 3,6667,6667,Paid,Bank Transfer
+967,323,Term 1,6667,0,Pending,
+968,323,Term 2,6667,6667,Paid,Bank Transfer
+969,323,Term 3,6667,6667,Paid,Cash
+970,324,Term 1,6667,6667,Paid,Razorpay (Online)
+971,324,Term 2,6667,6667,Paid,Razorpay (Online)
+972,324,Term 3,6667,6667,Paid,Razorpay (Online)
+973,325,Term 1,6667,6667,Paid,Cash
+974,325,Term 2,6667,0,Pending,
+975,325,Term 3,6667,6667,Paid,Cash
+976,326,Term 1,6667,6667,Paid,Razorpay (Online)
+977,326,Term 2,6667,6667,Paid,Cash
+978,326,Term 3,6667,0,Pending,
+979,327,Term 1,6667,6667,Paid,Razorpay (Online)
+980,327,Term 2,6667,6667,Paid,Cash
+981,327,Term 3,6667,6667,Paid,Razorpay (Online)
+982,328,Term 1,6667,6667,Paid,Razorpay (Online)
+983,328,Term 2,6667,6667,Paid,Cash
+984,328,Term 3,6667,6667,Paid,Razorpay (Online)
+985,329,Term 1,6667,6667,Paid,Razorpay (Online)
+986,329,Term 2,6667,0,Pending,
+987,329,Term 3,6667,6667,Paid,Cash
+988,330,Term 1,6667,0,Pending,
+989,330,Term 2,6667,6667,Paid,Cash
+990,330,Term 3,6667,6667,Paid,Bank Transfer
+991,331,Term 1,6667,6667,Paid,Razorpay (Online)
+992,331,Term 2,6667,6667,Paid,Razorpay (Online)
+993,331,Term 3,6667,0,Pending,
+994,332,Term 1,6667,6667,Paid,Razorpay (Online)
+995,332,Term 2,6667,0,Pending,
+996,332,Term 3,6667,0,Pending,
+997,333,Term 1,6667,6667,Paid,Cash
+998,333,Term 2,6667,6667,Paid,Bank Transfer
+999,333,Term 3,6667,6667,Paid,Bank Transfer
+1000,334,Term 1,6667,6667,Paid,Razorpay (Online)
+1001,334,Term 2,6667,0,Pending,
+1002,334,Term 3,6667,6667,Paid,Razorpay (Online)
+1003,335,Term 1,6667,6667,Paid,Razorpay (Online)
+1004,335,Term 2,6667,6667,Paid,Cash
+1005,335,Term 3,6667,982,Overdue,
+1006,336,Term 1,6667,6667,Paid,Cash
+1007,336,Term 2,6667,6667,Paid,Bank Transfer
+1008,336,Term 3,6667,6667,Paid,Razorpay (Online)
+1009,337,Term 1,6667,0,Pending,
+1010,337,Term 2,6667,6667,Paid,Razorpay (Online)
+1011,337,Term 3,6667,6667,Paid,Cash
+1012,338,Term 1,6667,6667,Paid,Razorpay (Online)
+1013,338,Term 2,6667,6667,Paid,Cash
+1014,338,Term 3,6667,6667,Paid,Cash
+1015,339,Term 1,6667,6667,Paid,Razorpay (Online)
+1016,339,Term 2,6667,1638,Overdue,
+1017,339,Term 3,6667,6667,Paid,Cash
+1018,340,Term 1,6667,6667,Paid,Razorpay (Online)
+1019,340,Term 2,6667,0,Pending,
+1020,340,Term 3,6667,6667,Paid,Razorpay (Online)
+1021,341,Term 1,6667,6667,Paid,Razorpay (Online)
+1022,341,Term 2,6667,6667,Paid,Cash
+1023,341,Term 3,6667,6667,Paid,Bank Transfer
+1024,342,Term 1,6667,6667,Paid,Razorpay (Online)
+1025,342,Term 2,6667,6667,Paid,Razorpay (Online)
+1026,342,Term 3,6667,6667,Paid,Cash
+1027,343,Term 1,6667,6667,Paid,Razorpay (Online)
+1028,343,Term 2,6667,6667,Paid,Bank Transfer
+1029,343,Term 3,6667,2435,Overdue,
+1030,344,Term 1,6667,6667,Paid,Cash
+1031,344,Term 2,6667,6667,Paid,Bank Transfer
+1032,344,Term 3,6667,6667,Paid,Razorpay (Online)
+1033,345,Term 1,6667,0,Pending,
+1034,345,Term 2,6667,6667,Paid,Cash
+1035,345,Term 3,6667,6667,Paid,Razorpay (Online)
+1036,346,Term 1,6667,0,Pending,
+1037,346,Term 2,6667,6667,Paid,Razorpay (Online)
+1038,346,Term 3,6667,6667,Paid,Bank Transfer
+1039,347,Term 1,6667,1822,Overdue,
+1040,347,Term 2,6667,6667,Paid,Cash
+1041,347,Term 3,6667,6667,Paid,Razorpay (Online)
+1042,348,Term 1,6667,6667,Paid,Razorpay (Online)
+1043,348,Term 2,6667,0,Pending,
+1044,348,Term 3,6667,980,Overdue,
+1045,349,Term 1,6667,0,Pending,
+1046,349,Term 2,6667,0,Pending,
+1047,349,Term 3,6667,0,Pending,
+1048,350,Term 1,6667,6667,Paid,Cash
+1049,350,Term 2,6667,0,Pending,
+1050,350,Term 3,6667,6667,Paid,Cash
+1051,351,Term 1,6667,713,Overdue,
+1052,351,Term 2,6667,6667,Paid,Razorpay (Online)
+1053,351,Term 3,6667,6667,Paid,Razorpay (Online)
+1054,352,Term 1,6667,6667,Paid,Razorpay (Online)
+1055,352,Term 2,6667,6667,Paid,Bank Transfer
+1056,352,Term 3,6667,2075,Overdue,
+1057,353,Term 1,6667,468,Overdue,
+1058,353,Term 2,6667,0,Pending,
+1059,353,Term 3,6667,428,Overdue,
+1060,354,Term 1,6667,6667,Paid,Bank Transfer
+1061,354,Term 2,6667,6667,Paid,Cash
+1062,354,Term 3,6667,6667,Paid,Razorpay (Online)
+1063,355,Term 1,6667,0,Pending,
+1064,355,Term 2,6667,3292,Overdue,
+1065,355,Term 3,6667,6667,Paid,Cash
+1066,356,Term 1,6667,6667,Paid,Cash
+1067,356,Term 2,6667,6667,Paid,Bank Transfer
+1068,356,Term 3,6667,6667,Paid,Bank Transfer
+1069,357,Term 1,6667,2992,Overdue,
+1070,357,Term 2,6667,6667,Paid,Bank Transfer
+1071,357,Term 3,6667,6667,Paid,Bank Transfer
+1072,358,Term 1,6667,6667,Paid,Razorpay (Online)
+1073,358,Term 2,6667,6667,Paid,Razorpay (Online)
+1074,358,Term 3,6667,0,Pending,
+1075,359,Term 1,6667,6667,Paid,Razorpay (Online)
+1076,359,Term 2,6667,2652,Overdue,
+1077,359,Term 3,6667,6667,Paid,Razorpay (Online)
+1078,360,Term 1,6667,0,Pending,
+1079,360,Term 2,6667,6667,Paid,Razorpay (Online)
+1080,360,Term 3,6667,0,Pending,
+1081,361,Term 1,7333,0,Pending,
+1082,361,Term 2,7333,0,Pending,
+1083,361,Term 3,7333,7333,Paid,Bank Transfer
+1084,362,Term 1,7333,7333,Paid,Razorpay (Online)
+1085,362,Term 2,7333,7333,Paid,Bank Transfer
+1086,362,Term 3,7333,7333,Paid,Bank Transfer
+1087,363,Term 1,7333,7333,Paid,Cash
+1088,363,Term 2,7333,7333,Paid,Razorpay (Online)
+1089,363,Term 3,7333,7333,Paid,Cash
+1090,364,Term 1,7333,7333,Paid,Razorpay (Online)
+1091,364,Term 2,7333,1787,Overdue,
+1092,364,Term 3,7333,7333,Paid,Cash
+1093,365,Term 1,7333,7333,Paid,Cash
+1094,365,Term 2,7333,0,Pending,
+1095,365,Term 3,7333,7333,Paid,Bank Transfer
+1096,366,Term 1,7333,7333,Paid,Razorpay (Online)
+1097,366,Term 2,7333,7333,Paid,Razorpay (Online)
+1098,366,Term 3,7333,7333,Paid,Razorpay (Online)
+1099,367,Term 1,7333,0,Pending,
+1100,367,Term 2,7333,7333,Paid,Razorpay (Online)
+1101,367,Term 3,7333,7333,Paid,Bank Transfer
+1102,368,Term 1,7333,7333,Paid,Razorpay (Online)
+1103,368,Term 2,7333,7333,Paid,Razorpay (Online)
+1104,368,Term 3,7333,7333,Paid,Razorpay (Online)
+1105,369,Term 1,7333,7333,Paid,Cash
+1106,369,Term 2,7333,7333,Paid,Bank Transfer
+1107,369,Term 3,7333,7333,Paid,Bank Transfer
+1108,370,Term 1,7333,7333,Paid,Bank Transfer
+1109,370,Term 2,7333,7333,Paid,Razorpay (Online)
+1110,370,Term 3,7333,7333,Paid,Razorpay (Online)
+1111,371,Term 1,7333,7333,Paid,Bank Transfer
+1112,371,Term 2,7333,7333,Paid,Razorpay (Online)
+1113,371,Term 3,7333,7333,Paid,Razorpay (Online)
+1114,372,Term 1,7333,7333,Paid,Razorpay (Online)
+1115,372,Term 2,7333,7333,Paid,Razorpay (Online)
+1116,372,Term 3,7333,7333,Paid,Cash
+1117,373,Term 1,7333,7333,Paid,Razorpay (Online)
+1118,373,Term 2,7333,7333,Paid,Cash
+1119,373,Term 3,7333,0,Pending,
+1120,374,Term 1,7333,7333,Paid,Razorpay (Online)
+1121,374,Term 2,7333,7333,Paid,Bank Transfer
+1122,374,Term 3,7333,7333,Paid,Bank Transfer
+1123,375,Term 1,7333,7333,Paid,Cash
+1124,375,Term 2,7333,7333,Paid,Razorpay (Online)
+1125,375,Term 3,7333,7333,Paid,Bank Transfer
+1126,376,Term 1,7333,0,Pending,
+1127,376,Term 2,7333,7333,Paid,Bank Transfer
+1128,376,Term 3,7333,7333,Paid,Cash
+1129,377,Term 1,7333,0,Pending,
+1130,377,Term 2,7333,824,Overdue,
+1131,377,Term 3,7333,7333,Paid,Razorpay (Online)
+1132,378,Term 1,7333,7333,Paid,Cash
+1133,378,Term 2,7333,7333,Paid,Cash
+1134,378,Term 3,7333,2772,Overdue,
+1135,379,Term 1,7333,0,Pending,
+1136,379,Term 2,7333,7333,Paid,Razorpay (Online)
+1137,379,Term 3,7333,7333,Paid,Razorpay (Online)
+1138,380,Term 1,7333,7333,Paid,Cash
+1139,380,Term 2,7333,7333,Paid,Cash
+1140,380,Term 3,7333,7333,Paid,Razorpay (Online)
+1141,381,Term 1,7333,0,Pending,
+1142,381,Term 2,7333,7333,Paid,Razorpay (Online)
+1143,381,Term 3,7333,3183,Overdue,
+1144,382,Term 1,7333,7333,Paid,Bank Transfer
+1145,382,Term 2,7333,7333,Paid,Cash
+1146,382,Term 3,7333,7333,Paid,Bank Transfer
+1147,383,Term 1,7333,7333,Paid,Cash
+1148,383,Term 2,7333,7333,Paid,Cash
+1149,383,Term 3,7333,7333,Paid,Cash
+1150,384,Term 1,7333,7333,Paid,Razorpay (Online)
+1151,384,Term 2,7333,7333,Paid,Razorpay (Online)
+1152,384,Term 3,7333,7333,Paid,Razorpay (Online)
+1153,385,Term 1,7333,7333,Paid,Razorpay (Online)
+1154,385,Term 2,7333,0,Pending,
+1155,385,Term 3,7333,7333,Paid,Cash
+1156,386,Term 1,7333,7333,Paid,Bank Transfer
+1157,386,Term 2,7333,7333,Paid,Razorpay (Online)
+1158,386,Term 3,7333,7333,Paid,Razorpay (Online)
+1159,387,Term 1,7333,7333,Paid,Razorpay (Online)
+1160,387,Term 2,7333,7333,Paid,Razorpay (Online)
+1161,387,Term 3,7333,7333,Paid,Razorpay (Online)
+1162,388,Term 1,7333,2942,Overdue,
+1163,388,Term 2,7333,7333,Paid,Bank Transfer
+1164,388,Term 3,7333,1427,Overdue,
+1165,389,Term 1,7333,7333,Paid,Razorpay (Online)
+1166,389,Term 2,7333,302,Overdue,
+1167,389,Term 3,7333,7333,Paid,Bank Transfer
+1168,390,Term 1,7333,7333,Paid,Razorpay (Online)
+1169,390,Term 2,7333,0,Pending,
+1170,390,Term 3,7333,7333,Paid,Cash
+1171,391,Term 1,7333,7333,Paid,Razorpay (Online)
+1172,391,Term 2,7333,7333,Paid,Cash
+1173,391,Term 3,7333,7333,Paid,Razorpay (Online)
+1174,392,Term 1,7333,7333,Paid,Razorpay (Online)
+1175,392,Term 2,7333,7333,Paid,Razorpay (Online)
+1176,392,Term 3,7333,7333,Paid,Bank Transfer
+1177,393,Term 1,7333,7333,Paid,Cash
+1178,393,Term 2,7333,7333,Paid,Cash
+1179,393,Term 3,7333,0,Pending,
+1180,394,Term 1,7333,7333,Paid,Bank Transfer
+1181,394,Term 2,7333,7333,Paid,Razorpay (Online)
+1182,394,Term 3,7333,0,Pending,
+1183,395,Term 1,7333,0,Pending,
+1184,395,Term 2,7333,7333,Paid,Razorpay (Online)
+1185,395,Term 3,7333,7333,Paid,Cash
+1186,396,Term 1,7333,7333,Paid,Cash
+1187,396,Term 2,7333,7333,Paid,Razorpay (Online)
+1188,396,Term 3,7333,7333,Paid,Razorpay (Online)
+1189,397,Term 1,7333,0,Pending,
+1190,397,Term 2,7333,7333,Paid,Cash
+1191,397,Term 3,7333,7333,Paid,Razorpay (Online)
+1192,398,Term 1,7333,7333,Paid,Cash
+1193,398,Term 2,7333,7333,Paid,Bank Transfer
+1194,398,Term 3,7333,0,Pending,
+1195,399,Term 1,7333,0,Pending,
+1196,399,Term 2,7333,0,Pending,
+1197,399,Term 3,7333,623,Overdue,
+1198,400,Term 1,7333,7333,Paid,Razorpay (Online)
+1199,400,Term 2,7333,7333,Paid,Razorpay (Online)
+1200,400,Term 3,7333,7333,Paid,Razorpay (Online)
+1201,401,Term 1,7333,7333,Paid,Razorpay (Online)
+1202,401,Term 2,7333,0,Pending,
+1203,401,Term 3,7333,3260,Overdue,
+1204,402,Term 1,7333,7333,Paid,Razorpay (Online)
+1205,402,Term 2,7333,1730,Overdue,
+1206,402,Term 3,7333,7333,Paid,Bank Transfer
+1207,403,Term 1,7333,7333,Paid,Razorpay (Online)
+1208,403,Term 2,7333,7333,Paid,Cash
+1209,403,Term 3,7333,0,Pending,
+1210,404,Term 1,7333,7333,Paid,Razorpay (Online)
+1211,404,Term 2,7333,7333,Paid,Razorpay (Online)
+1212,404,Term 3,7333,7333,Paid,Razorpay (Online)
+1213,405,Term 1,7333,7333,Paid,Razorpay (Online)
+1214,405,Term 2,7333,7333,Paid,Razorpay (Online)
+1215,405,Term 3,7333,7333,Paid,Razorpay (Online)
+1216,406,Term 1,7333,2489,Overdue,
+1217,406,Term 2,7333,7333,Paid,Cash
+1218,406,Term 3,7333,7333,Paid,Bank Transfer
+1219,407,Term 1,7333,0,Pending,
+1220,407,Term 2,7333,7333,Paid,Cash
+1221,407,Term 3,7333,0,Pending,
+1222,408,Term 1,7333,7333,Paid,Bank Transfer
+1223,408,Term 2,7333,7333,Paid,Razorpay (Online)
+1224,408,Term 3,7333,7333,Paid,Bank Transfer
+1225,409,Term 1,7333,0,Pending,
+1226,409,Term 2,7333,0,Pending,
+1227,409,Term 3,7333,7333,Paid,Razorpay (Online)
+1228,410,Term 1,7333,7333,Paid,Cash
+1229,410,Term 2,7333,7333,Paid,Razorpay (Online)
+1230,410,Term 3,7333,7333,Paid,Razorpay (Online)
+1231,411,Term 1,7333,7333,Paid,Bank Transfer
+1232,411,Term 2,7333,7333,Paid,Cash
+1233,411,Term 3,7333,7333,Paid,Razorpay (Online)
+1234,412,Term 1,7333,0,Pending,
+1235,412,Term 2,7333,7333,Paid,Razorpay (Online)
+1236,412,Term 3,7333,7333,Paid,Bank Transfer
+1237,413,Term 1,7333,0,Pending,
+1238,413,Term 2,7333,0,Pending,
+1239,413,Term 3,7333,0,Pending,
+1240,414,Term 1,7333,7333,Paid,Bank Transfer
+1241,414,Term 2,7333,7333,Paid,Cash
+1242,414,Term 3,7333,7333,Paid,Razorpay (Online)
+1243,415,Term 1,7333,7333,Paid,Razorpay (Online)
+1244,415,Term 2,7333,7333,Paid,Cash
+1245,415,Term 3,7333,7333,Paid,Cash
+1246,416,Term 1,7333,7333,Paid,Razorpay (Online)
+1247,416,Term 2,7333,7333,Paid,Razorpay (Online)
+1248,416,Term 3,7333,0,Pending,
+1249,417,Term 1,7333,0,Pending,
+1250,417,Term 2,7333,7333,Paid,Razorpay (Online)
+1251,417,Term 3,7333,3578,Overdue,
+1252,418,Term 1,7333,0,Pending,
+1253,418,Term 2,7333,608,Overdue,
+1254,418,Term 3,7333,7333,Paid,Razorpay (Online)
+1255,419,Term 1,7333,72,Overdue,
+1256,419,Term 2,7333,7333,Paid,Razorpay (Online)
+1257,419,Term 3,7333,7333,Paid,Cash
+1258,420,Term 1,7333,7333,Paid,Razorpay (Online)
+1259,420,Term 2,7333,1325,Overdue,
+1260,420,Term 3,7333,7333,Paid,Razorpay (Online)
+1261,421,Term 1,7333,3622,Overdue,
+1262,421,Term 2,7333,7333,Paid,Razorpay (Online)
+1263,421,Term 3,7333,7333,Paid,Razorpay (Online)
+1264,422,Term 1,7333,1619,Overdue,
+1265,422,Term 2,7333,7333,Paid,Cash
+1266,422,Term 3,7333,7333,Paid,Razorpay (Online)
+1267,423,Term 1,7333,3135,Overdue,
+1268,423,Term 2,7333,0,Pending,
+1269,423,Term 3,7333,7333,Paid,Razorpay (Online)
+1270,424,Term 1,7333,0,Pending,
+1271,424,Term 2,7333,7333,Paid,Bank Transfer
+1272,424,Term 3,7333,7333,Paid,Bank Transfer
+1273,425,Term 1,7333,7333,Paid,Razorpay (Online)
+1274,425,Term 2,7333,7333,Paid,Razorpay (Online)
+1275,425,Term 3,7333,0,Pending,
+1276,426,Term 1,7333,7333,Paid,Cash
+1277,426,Term 2,7333,0,Pending,
+1278,426,Term 3,7333,7333,Paid,Razorpay (Online)
+1279,427,Term 1,7333,0,Pending,
+1280,427,Term 2,7333,7333,Paid,Razorpay (Online)
+1281,427,Term 3,7333,0,Pending,
+1282,428,Term 1,7333,7333,Paid,Razorpay (Online)
+1283,428,Term 2,7333,7333,Paid,Cash
+1284,428,Term 3,7333,7333,Paid,Cash
+1285,429,Term 1,7333,0,Pending,
+1286,429,Term 2,7333,0,Pending,
+1287,429,Term 3,7333,7333,Paid,Bank Transfer
+1288,430,Term 1,7333,7333,Paid,Razorpay (Online)
+1289,430,Term 2,7333,0,Pending,
+1290,430,Term 3,7333,7333,Paid,Razorpay (Online)
+1291,431,Term 1,7333,7333,Paid,Bank Transfer
+1292,431,Term 2,7333,7333,Paid,Razorpay (Online)
+1293,431,Term 3,7333,2128,Overdue,
+1294,432,Term 1,7333,0,Pending,
+1295,432,Term 2,7333,7333,Paid,Razorpay (Online)
+1296,432,Term 3,7333,7333,Paid,Cash
+1297,433,Term 1,7333,7333,Paid,Razorpay (Online)
+1298,433,Term 2,7333,7333,Paid,Razorpay (Online)
+1299,433,Term 3,7333,7333,Paid,Cash
+1300,434,Term 1,7333,0,Pending,
+1301,434,Term 2,7333,7333,Paid,Razorpay (Online)
+1302,434,Term 3,7333,7333,Paid,Razorpay (Online)
+1303,435,Term 1,7333,7333,Paid,Razorpay (Online)
+1304,435,Term 2,7333,7333,Paid,Razorpay (Online)
+1305,435,Term 3,7333,7333,Paid,Bank Transfer
+1306,436,Term 1,7333,7333,Paid,Razorpay (Online)
+1307,436,Term 2,7333,7333,Paid,Razorpay (Online)
+1308,436,Term 3,7333,0,Pending,
+1309,437,Term 1,7333,7333,Paid,Bank Transfer
+1310,437,Term 2,7333,7333,Paid,Cash
+1311,437,Term 3,7333,7333,Paid,Cash
+1312,438,Term 1,7333,249,Overdue,
+1313,438,Term 2,7333,0,Pending,
+1314,438,Term 3,7333,7333,Paid,Razorpay (Online)
+1315,439,Term 1,7333,7333,Paid,Cash
+1316,439,Term 2,7333,7333,Paid,Razorpay (Online)
+1317,439,Term 3,7333,7333,Paid,Razorpay (Online)
+1318,440,Term 1,7333,7333,Paid,Cash
+1319,440,Term 2,7333,1486,Overdue,
+1320,440,Term 3,7333,7333,Paid,Cash
+1321,441,Term 1,7333,97,Overdue,
+1322,441,Term 2,7333,7333,Paid,Cash
+1323,441,Term 3,7333,3598,Overdue,
+1324,442,Term 1,7333,7333,Paid,Razorpay (Online)
+1325,442,Term 2,7333,7333,Paid,Razorpay (Online)
+1326,442,Term 3,7333,0,Pending,
+1327,443,Term 1,7333,7333,Paid,Bank Transfer
+1328,443,Term 2,7333,7333,Paid,Razorpay (Online)
+1329,443,Term 3,7333,7333,Paid,Razorpay (Online)
+1330,444,Term 1,7333,7333,Paid,Cash
+1331,444,Term 2,7333,7333,Paid,Cash
+1332,444,Term 3,7333,0,Pending,
+1333,445,Term 1,7333,0,Pending,
+1334,445,Term 2,7333,7333,Paid,Razorpay (Online)
+1335,445,Term 3,7333,7333,Paid,Razorpay (Online)
+1336,446,Term 1,7333,248,Overdue,
+1337,446,Term 2,7333,7333,Paid,Cash
+1338,446,Term 3,7333,7333,Paid,Cash
+1339,447,Term 1,7333,7333,Paid,Razorpay (Online)
+1340,447,Term 2,7333,7333,Paid,Razorpay (Online)
+1341,447,Term 3,7333,0,Pending,
+1342,448,Term 1,7333,0,Pending,
+1343,448,Term 2,7333,7333,Paid,Bank Transfer
+1344,448,Term 3,7333,7333,Paid,Razorpay (Online)
+1345,449,Term 1,7333,7333,Paid,Razorpay (Online)
+1346,449,Term 2,7333,7333,Paid,Cash
+1347,449,Term 3,7333,0,Pending,
+1348,450,Term 1,7333,7333,Paid,Razorpay (Online)
+1349,450,Term 2,7333,3080,Overdue,
+1350,450,Term 3,7333,0,Pending,
+1351,451,Term 1,7333,7333,Paid,Bank Transfer
+1352,451,Term 2,7333,0,Pending,
+1353,451,Term 3,7333,7333,Paid,Razorpay (Online)
+1354,452,Term 1,7333,7333,Paid,Bank Transfer
+1355,452,Term 2,7333,0,Pending,
+1356,452,Term 3,7333,7333,Paid,Razorpay (Online)
+1357,453,Term 1,7333,7333,Paid,Razorpay (Online)
+1358,453,Term 2,7333,7333,Paid,Razorpay (Online)
+1359,453,Term 3,7333,7333,Paid,Bank Transfer
+1360,454,Term 1,7333,7333,Paid,Cash
+1361,454,Term 2,7333,7333,Paid,Bank Transfer
+1362,454,Term 3,7333,7333,Paid,Razorpay (Online)
+1363,455,Term 1,7333,7333,Paid,Bank Transfer
+1364,455,Term 2,7333,7333,Paid,Razorpay (Online)
+1365,455,Term 3,7333,7333,Paid,Cash
+1366,456,Term 1,7333,7333,Paid,Razorpay (Online)
+1367,456,Term 2,7333,7333,Paid,Razorpay (Online)
+1368,456,Term 3,7333,0,Pending,
+1369,457,Term 1,7333,7333,Paid,Razorpay (Online)
+1370,457,Term 2,7333,3100,Overdue,
+1371,457,Term 3,7333,7333,Paid,Cash
+1372,458,Term 1,7333,7333,Paid,Razorpay (Online)
+1373,458,Term 2,7333,7333,Paid,Razorpay (Online)
+1374,458,Term 3,7333,0,Pending,
+1375,459,Term 1,7333,7333,Paid,Razorpay (Online)
+1376,459,Term 2,7333,7333,Paid,Razorpay (Online)
+1377,459,Term 3,7333,7333,Paid,Bank Transfer
+1378,460,Term 1,7333,7333,Paid,Cash
+1379,460,Term 2,7333,7333,Paid,Razorpay (Online)
+1380,460,Term 3,7333,7333,Paid,Bank Transfer
+1381,461,Term 1,7333,0,Pending,
+1382,461,Term 2,7333,7333,Paid,Cash
+1383,461,Term 3,7333,7333,Paid,Bank Transfer
+1384,462,Term 1,7333,7333,Paid,Razorpay (Online)
+1385,462,Term 2,7333,0,Pending,
+1386,462,Term 3,7333,7333,Paid,Cash
+1387,463,Term 1,7333,7333,Paid,Bank Transfer
+1388,463,Term 2,7333,7333,Paid,Razorpay (Online)
+1389,463,Term 3,7333,1384,Overdue,
+1390,464,Term 1,7333,0,Pending,
+1391,464,Term 2,7333,7333,Paid,Cash
+1392,464,Term 3,7333,7333,Paid,Razorpay (Online)
+1393,465,Term 1,7333,7333,Paid,Razorpay (Online)
+1394,465,Term 2,7333,7333,Paid,Cash
+1395,465,Term 3,7333,7333,Paid,Razorpay (Online)
+1396,466,Term 1,7333,293,Overdue,
+1397,466,Term 2,7333,7333,Paid,Razorpay (Online)
+1398,466,Term 3,7333,7333,Paid,Cash
+1399,467,Term 1,7333,7333,Paid,Cash
+1400,467,Term 2,7333,0,Pending,
+1401,467,Term 3,7333,7333,Paid,Cash
+1402,468,Term 1,7333,7333,Paid,Cash
+1403,468,Term 2,7333,7333,Paid,Cash
+1404,468,Term 3,7333,7333,Paid,Razorpay (Online)
+1405,469,Term 1,7333,7333,Paid,Razorpay (Online)
+1406,469,Term 2,7333,0,Pending,
+1407,469,Term 3,7333,7333,Paid,Razorpay (Online)
+1408,470,Term 1,7333,7333,Paid,Razorpay (Online)
+1409,470,Term 2,7333,0,Pending,
+1410,470,Term 3,7333,7333,Paid,Razorpay (Online)
+1411,471,Term 1,7333,7333,Paid,Razorpay (Online)
+1412,471,Term 2,7333,7333,Paid,Cash
+1413,471,Term 3,7333,0,Pending,
+1414,472,Term 1,7333,7333,Paid,Cash
+1415,472,Term 2,7333,7333,Paid,Razorpay (Online)
+1416,472,Term 3,7333,0,Pending,
+1417,473,Term 1,7333,7333,Paid,Cash
+1418,473,Term 2,7333,7333,Paid,Bank Transfer
+1419,473,Term 3,7333,1536,Overdue,
+1420,474,Term 1,7333,7333,Paid,Razorpay (Online)
+1421,474,Term 2,7333,7333,Paid,Cash
+1422,474,Term 3,7333,7333,Paid,Razorpay (Online)
+1423,475,Term 1,7333,7333,Paid,Cash
+1424,475,Term 2,7333,7333,Paid,Razorpay (Online)
+1425,475,Term 3,7333,0,Pending,
+1426,476,Term 1,7333,7333,Paid,Bank Transfer
+1427,476,Term 2,7333,7333,Paid,Bank Transfer
+1428,476,Term 3,7333,0,Pending,
+1429,477,Term 1,7333,7333,Paid,Cash
+1430,477,Term 2,7333,0,Pending,
+1431,477,Term 3,7333,7333,Paid,Bank Transfer
+1432,478,Term 1,7333,0,Pending,
+1433,478,Term 2,7333,7333,Paid,Cash
+1434,478,Term 3,7333,7333,Paid,Cash
+1435,479,Term 1,7333,7333,Paid,Razorpay (Online)
+1436,479,Term 2,7333,7333,Paid,Razorpay (Online)
+1437,479,Term 3,7333,7333,Paid,Razorpay (Online)
+1438,480,Term 1,7333,0,Pending,
+1439,480,Term 2,7333,1426,Overdue,
+1440,480,Term 3,7333,7333,Paid,Razorpay (Online)
+1441,481,Term 1,7333,7333,Paid,Cash
+1442,481,Term 2,7333,7333,Paid,Bank Transfer
+1443,481,Term 3,7333,7333,Paid,Razorpay (Online)
+1444,482,Term 1,7333,7333,Paid,Cash
+1445,482,Term 2,7333,7333,Paid,Razorpay (Online)
+1446,482,Term 3,7333,7333,Paid,Bank Transfer
+1447,483,Term 1,7333,7333,Paid,Razorpay (Online)
+1448,483,Term 2,7333,3428,Overdue,
+1449,483,Term 3,7333,7333,Paid,Razorpay (Online)
+1450,484,Term 1,7333,7333,Paid,Bank Transfer
+1451,484,Term 2,7333,7333,Paid,Razorpay (Online)
+1452,484,Term 3,7333,2858,Overdue,
+1453,485,Term 1,7333,0,Pending,
+1454,485,Term 2,7333,7333,Paid,Bank Transfer
+1455,485,Term 3,7333,7333,Paid,Razorpay (Online)
+1456,486,Term 1,7333,7333,Paid,Bank Transfer
+1457,486,Term 2,7333,0,Pending,
+1458,486,Term 3,7333,3505,Overdue,
+1459,487,Term 1,7333,7333,Paid,Cash
+1460,487,Term 2,7333,7333,Paid,Razorpay (Online)
+1461,487,Term 3,7333,7333,Paid,Bank Transfer
+1462,488,Term 1,7333,7333,Paid,Bank Transfer
+1463,488,Term 2,7333,7333,Paid,Razorpay (Online)
+1464,488,Term 3,7333,0,Pending,
+1465,489,Term 1,7333,7333,Paid,Cash
+1466,489,Term 2,7333,7333,Paid,Razorpay (Online)
+1467,489,Term 3,7333,7333,Paid,Razorpay (Online)
+1468,490,Term 1,7333,7333,Paid,Cash
+1469,490,Term 2,7333,7333,Paid,Razorpay (Online)
+1470,490,Term 3,7333,7333,Paid,Razorpay (Online)
+1471,491,Term 1,7333,0,Pending,
+1472,491,Term 2,7333,0,Pending,
+1473,491,Term 3,7333,509,Overdue,
+1474,492,Term 1,7333,7333,Paid,Razorpay (Online)
+1475,492,Term 2,7333,7333,Paid,Bank Transfer
+1476,492,Term 3,7333,0,Pending,
+1477,493,Term 1,7333,3045,Overdue,
+1478,493,Term 2,7333,7333,Paid,Cash
+1479,493,Term 3,7333,7333,Paid,Razorpay (Online)
+1480,494,Term 1,7333,3321,Overdue,
+1481,494,Term 2,7333,7333,Paid,Razorpay (Online)
+1482,494,Term 3,7333,2554,Overdue,
+1483,495,Term 1,7333,0,Pending,
+1484,495,Term 2,7333,7333,Paid,Razorpay (Online)
+1485,495,Term 3,7333,0,Pending,
+1486,496,Term 1,7333,2147,Overdue,
+1487,496,Term 2,7333,228,Overdue,
+1488,496,Term 3,7333,233,Overdue,
+1489,497,Term 1,7333,7333,Paid,Bank Transfer
+1490,497,Term 2,7333,7333,Paid,Razorpay (Online)
+1491,497,Term 3,7333,7333,Paid,Cash
+1492,498,Term 1,7333,7333,Paid,Cash
+1493,498,Term 2,7333,7333,Paid,Razorpay (Online)
+1494,498,Term 3,7333,7333,Paid,Cash
+1495,499,Term 1,7333,7333,Paid,Cash
+1496,499,Term 2,7333,7333,Paid,Razorpay (Online)
+1497,499,Term 3,7333,0,Pending,
+1498,500,Term 1,7333,7333,Paid,Bank Transfer
+1499,500,Term 2,7333,7333,Paid,Cash
+1500,500,Term 3,7333,7333,Paid,Razorpay (Online)
+1501,501,Term 1,7333,0,Pending,
+1502,501,Term 2,7333,7333,Paid,Razorpay (Online)
+1503,501,Term 3,7333,0,Pending,
+1504,502,Term 1,7333,7333,Paid,Razorpay (Online)
+1505,502,Term 2,7333,0,Pending,
+1506,502,Term 3,7333,7333,Paid,Cash
+1507,503,Term 1,7333,7333,Paid,Razorpay (Online)
+1508,503,Term 2,7333,7333,Paid,Razorpay (Online)
+1509,503,Term 3,7333,7333,Paid,Razorpay (Online)
+1510,504,Term 1,7333,7333,Paid,Razorpay (Online)
+1511,504,Term 2,7333,7333,Paid,Razorpay (Online)
+1512,504,Term 3,7333,7333,Paid,Razorpay (Online)
+1513,505,Term 1,7333,7333,Paid,Cash
+1514,505,Term 2,7333,7333,Paid,Razorpay (Online)
+1515,505,Term 3,7333,7333,Paid,Razorpay (Online)
+1516,506,Term 1,7333,7333,Paid,Cash
+1517,506,Term 2,7333,7333,Paid,Razorpay (Online)
+1518,506,Term 3,7333,7333,Paid,Cash
+1519,507,Term 1,7333,7333,Paid,Razorpay (Online)
+1520,507,Term 2,7333,7333,Paid,Bank Transfer
+1521,507,Term 3,7333,7333,Paid,Razorpay (Online)
+1522,508,Term 1,7333,7333,Paid,Razorpay (Online)
+1523,508,Term 2,7333,7333,Paid,Razorpay (Online)
+1524,508,Term 3,7333,7333,Paid,Razorpay (Online)
+1525,509,Term 1,7333,7333,Paid,Bank Transfer
+1526,509,Term 2,7333,0,Pending,
+1527,509,Term 3,7333,7333,Paid,Razorpay (Online)
+1528,510,Term 1,7333,7333,Paid,Razorpay (Online)
+1529,510,Term 2,7333,7333,Paid,Cash
+1530,510,Term 3,7333,7333,Paid,Cash
+1531,511,Term 1,7333,0,Pending,
+1532,511,Term 2,7333,3191,Overdue,
+1533,511,Term 3,7333,7333,Paid,Razorpay (Online)
+1534,512,Term 1,7333,7333,Paid,Razorpay (Online)
+1535,512,Term 2,7333,7333,Paid,Razorpay (Online)
+1536,512,Term 3,7333,7333,Paid,Bank Transfer
+1537,513,Term 1,7333,7333,Paid,Cash
+1538,513,Term 2,7333,0,Pending,
+1539,513,Term 3,7333,7333,Paid,Razorpay (Online)
+1540,514,Term 1,7333,7333,Paid,Razorpay (Online)
+1541,514,Term 2,7333,7333,Paid,Razorpay (Online)
+1542,514,Term 3,7333,512,Overdue,
+1543,515,Term 1,7333,7333,Paid,Razorpay (Online)
+1544,515,Term 2,7333,7333,Paid,Razorpay (Online)
+1545,515,Term 3,7333,7333,Paid,Bank Transfer
+1546,516,Term 1,7333,7333,Paid,Cash
+1547,516,Term 2,7333,7333,Paid,Cash
+1548,516,Term 3,7333,0,Pending,
+1549,517,Term 1,7333,7333,Paid,Razorpay (Online)
+1550,517,Term 2,7333,7333,Paid,Razorpay (Online)
+1551,517,Term 3,7333,0,Pending,
+1552,518,Term 1,7333,641,Overdue,
+1553,518,Term 2,7333,7333,Paid,Razorpay (Online)
+1554,518,Term 3,7333,0,Pending,
+1555,519,Term 1,7333,7333,Paid,Razorpay (Online)
+1556,519,Term 2,7333,7333,Paid,Bank Transfer
+1557,519,Term 3,7333,7333,Paid,Cash
+1558,520,Term 1,7333,7333,Paid,Razorpay (Online)
+1559,520,Term 2,7333,7333,Paid,Cash
+1560,520,Term 3,7333,7333,Paid,Cash
+1561,521,Term 1,7333,7333,Paid,Cash
+1562,521,Term 2,7333,7333,Paid,Bank Transfer
+1563,521,Term 3,7333,7333,Paid,Razorpay (Online)
+1564,522,Term 1,7333,0,Pending,
+1565,522,Term 2,7333,7333,Paid,Cash
+1566,522,Term 3,7333,7333,Paid,Razorpay (Online)
+1567,523,Term 1,7333,0,Pending,
+1568,523,Term 2,7333,7333,Paid,Razorpay (Online)
+1569,523,Term 3,7333,7333,Paid,Razorpay (Online)
+1570,524,Term 1,7333,7333,Paid,Bank Transfer
+1571,524,Term 2,7333,1071,Overdue,
+1572,524,Term 3,7333,7333,Paid,Razorpay (Online)
+1573,525,Term 1,7333,7333,Paid,Cash
+1574,525,Term 2,7333,0,Pending,
+1575,525,Term 3,7333,124,Overdue,
+1576,526,Term 1,7333,7333,Paid,Cash
+1577,526,Term 2,7333,7333,Paid,Razorpay (Online)
+1578,526,Term 3,7333,7333,Paid,Bank Transfer
+1579,527,Term 1,7333,7333,Paid,Razorpay (Online)
+1580,527,Term 2,7333,7333,Paid,Razorpay (Online)
+1581,527,Term 3,7333,0,Pending,
+1582,528,Term 1,7333,7333,Paid,Cash
+1583,528,Term 2,7333,0,Pending,
+1584,528,Term 3,7333,7333,Paid,Razorpay (Online)
+1585,529,Term 1,7333,7333,Paid,Cash
+1586,529,Term 2,7333,7333,Paid,Razorpay (Online)
+1587,529,Term 3,7333,7333,Paid,Cash
+1588,530,Term 1,7333,7333,Paid,Razorpay (Online)
+1589,530,Term 2,7333,7333,Paid,Razorpay (Online)
+1590,530,Term 3,7333,7333,Paid,Razorpay (Online)
+1591,531,Term 1,7333,7333,Paid,Razorpay (Online)
+1592,531,Term 2,7333,7333,Paid,Razorpay (Online)
+1593,531,Term 3,7333,7333,Paid,Cash
+1594,532,Term 1,7333,7333,Paid,Razorpay (Online)
+1595,532,Term 2,7333,7333,Paid,Razorpay (Online)
+1596,532,Term 3,7333,7333,Paid,Cash
+1597,533,Term 1,7333,7333,Paid,Cash
+1598,533,Term 2,7333,7333,Paid,Bank Transfer
+1599,533,Term 3,7333,2113,Overdue,
+1600,534,Term 1,7333,7333,Paid,Cash
+1601,534,Term 2,7333,7333,Paid,Bank Transfer
+1602,534,Term 3,7333,7333,Paid,Bank Transfer
+1603,535,Term 1,7333,7333,Paid,Cash
+1604,535,Term 2,7333,7333,Paid,Razorpay (Online)
+1605,535,Term 3,7333,7333,Paid,Bank Transfer
+1606,536,Term 1,7333,7333,Paid,Bank Transfer
+1607,536,Term 2,7333,7333,Paid,Bank Transfer
+1608,536,Term 3,7333,7333,Paid,Razorpay (Online)
+1609,537,Term 1,7333,7333,Paid,Razorpay (Online)
+1610,537,Term 2,7333,7333,Paid,Bank Transfer
+1611,537,Term 3,7333,0,Pending,
+1612,538,Term 1,7333,7333,Paid,Bank Transfer
+1613,538,Term 2,7333,0,Pending,
+1614,538,Term 3,7333,7333,Paid,Razorpay (Online)
+1615,539,Term 1,7333,1936,Overdue,
+1616,539,Term 2,7333,0,Pending,
+1617,539,Term 3,7333,7333,Paid,Razorpay (Online)
+1618,540,Term 1,7333,7333,Paid,Razorpay (Online)
+1619,540,Term 2,7333,7333,Paid,Cash
+1620,540,Term 3,7333,7333,Paid,Razorpay (Online)
+1621,541,Term 1,8000,8000,Paid,Cash
+1622,541,Term 2,8000,8000,Paid,Bank Transfer
+1623,541,Term 3,8000,8000,Paid,Razorpay (Online)
+1624,542,Term 1,8000,0,Pending,
+1625,542,Term 2,8000,0,Pending,
+1626,542,Term 3,8000,8000,Paid,Razorpay (Online)
+1627,543,Term 1,8000,8000,Paid,Razorpay (Online)
+1628,543,Term 2,8000,8000,Paid,Cash
+1629,543,Term 3,8000,8000,Paid,Razorpay (Online)
+1630,544,Term 1,8000,782,Overdue,
+1631,544,Term 2,8000,8000,Paid,Razorpay (Online)
+1632,544,Term 3,8000,2564,Overdue,
+1633,545,Term 1,8000,0,Pending,
+1634,545,Term 2,8000,0,Pending,
+1635,545,Term 3,8000,0,Pending,
+1636,546,Term 1,8000,8000,Paid,Razorpay (Online)
+1637,546,Term 2,8000,8000,Paid,Razorpay (Online)
+1638,546,Term 3,8000,8000,Paid,Razorpay (Online)
+1639,547,Term 1,8000,8000,Paid,Bank Transfer
+1640,547,Term 2,8000,8000,Paid,Razorpay (Online)
+1641,547,Term 3,8000,8000,Paid,Cash
+1642,548,Term 1,8000,8000,Paid,Razorpay (Online)
+1643,548,Term 2,8000,8000,Paid,Cash
+1644,548,Term 3,8000,8000,Paid,Razorpay (Online)
+1645,549,Term 1,8000,8000,Paid,Razorpay (Online)
+1646,549,Term 2,8000,8000,Paid,Razorpay (Online)
+1647,549,Term 3,8000,8000,Paid,Cash
+1648,550,Term 1,8000,8000,Paid,Razorpay (Online)
+1649,550,Term 2,8000,8000,Paid,Bank Transfer
+1650,550,Term 3,8000,8000,Paid,Cash
+1651,551,Term 1,8000,8000,Paid,Razorpay (Online)
+1652,551,Term 2,8000,8000,Paid,Cash
+1653,551,Term 3,8000,8000,Paid,Cash
+1654,552,Term 1,8000,8000,Paid,Bank Transfer
+1655,552,Term 2,8000,491,Overdue,
+1656,552,Term 3,8000,8000,Paid,Razorpay (Online)
+1657,553,Term 1,8000,1315,Overdue,
+1658,553,Term 2,8000,0,Pending,
+1659,553,Term 3,8000,8000,Paid,Bank Transfer
+1660,554,Term 1,8000,8000,Paid,Razorpay (Online)
+1661,554,Term 2,8000,0,Pending,
+1662,554,Term 3,8000,8000,Paid,Razorpay (Online)
+1663,555,Term 1,8000,8000,Paid,Razorpay (Online)
+1664,555,Term 2,8000,8000,Paid,Razorpay (Online)
+1665,555,Term 3,8000,8000,Paid,Razorpay (Online)
+1666,556,Term 1,8000,8000,Paid,Razorpay (Online)
+1667,556,Term 2,8000,435,Overdue,
+1668,556,Term 3,8000,0,Pending,
+1669,557,Term 1,8000,0,Pending,
+1670,557,Term 2,8000,1650,Overdue,
+1671,557,Term 3,8000,8000,Paid,Razorpay (Online)
+1672,558,Term 1,8000,8000,Paid,Razorpay (Online)
+1673,558,Term 2,8000,8000,Paid,Cash
+1674,558,Term 3,8000,8000,Paid,Razorpay (Online)
+1675,559,Term 1,8000,8000,Paid,Bank Transfer
+1676,559,Term 2,8000,8000,Paid,Cash
+1677,559,Term 3,8000,8000,Paid,Cash
+1678,560,Term 1,8000,8000,Paid,Razorpay (Online)
+1679,560,Term 2,8000,8000,Paid,Razorpay (Online)
+1680,560,Term 3,8000,8000,Paid,Razorpay (Online)
+1681,561,Term 1,8000,0,Pending,
+1682,561,Term 2,8000,1646,Overdue,
+1683,561,Term 3,8000,8000,Paid,Cash
+1684,562,Term 1,8000,0,Pending,
+1685,562,Term 2,8000,8000,Paid,Razorpay (Online)
+1686,562,Term 3,8000,8000,Paid,Razorpay (Online)
+1687,563,Term 1,8000,8000,Paid,Razorpay (Online)
+1688,563,Term 2,8000,0,Pending,
+1689,563,Term 3,8000,8000,Paid,Razorpay (Online)
+1690,564,Term 1,8000,8000,Paid,Razorpay (Online)
+1691,564,Term 2,8000,8000,Paid,Cash
+1692,564,Term 3,8000,8000,Paid,Cash
+1693,565,Term 1,8000,8000,Paid,Bank Transfer
+1694,565,Term 2,8000,8000,Paid,Razorpay (Online)
+1695,565,Term 3,8000,0,Pending,
+1696,566,Term 1,8000,8000,Paid,Razorpay (Online)
+1697,566,Term 2,8000,8000,Paid,Cash
+1698,566,Term 3,8000,8000,Paid,Cash
+1699,567,Term 1,8000,8000,Paid,Bank Transfer
+1700,567,Term 2,8000,8000,Paid,Razorpay (Online)
+1701,567,Term 3,8000,0,Pending,
+1702,568,Term 1,8000,1093,Overdue,
+1703,568,Term 2,8000,8000,Paid,Razorpay (Online)
+1704,568,Term 3,8000,0,Pending,
+1705,569,Term 1,8000,8000,Paid,Cash
+1706,569,Term 2,8000,0,Pending,
+1707,569,Term 3,8000,8000,Paid,Bank Transfer
+1708,570,Term 1,8000,8000,Paid,Razorpay (Online)
+1709,570,Term 2,8000,8000,Paid,Razorpay (Online)
+1710,570,Term 3,8000,8000,Paid,Razorpay (Online)
+1711,571,Term 1,8000,8000,Paid,Razorpay (Online)
+1712,571,Term 2,8000,8000,Paid,Razorpay (Online)
+1713,571,Term 3,8000,8000,Paid,Razorpay (Online)
+1714,572,Term 1,8000,8000,Paid,Cash
+1715,572,Term 2,8000,0,Pending,
+1716,572,Term 3,8000,8000,Paid,Cash
+1717,573,Term 1,8000,8000,Paid,Cash
+1718,573,Term 2,8000,0,Pending,
+1719,573,Term 3,8000,8000,Paid,Cash
+1720,574,Term 1,8000,0,Pending,
+1721,574,Term 2,8000,8000,Paid,Bank Transfer
+1722,574,Term 3,8000,0,Pending,
+1723,575,Term 1,8000,8000,Paid,Razorpay (Online)
+1724,575,Term 2,8000,8000,Paid,Cash
+1725,575,Term 3,8000,8000,Paid,Razorpay (Online)
+1726,576,Term 1,8000,8000,Paid,Bank Transfer
+1727,576,Term 2,8000,8000,Paid,Razorpay (Online)
+1728,576,Term 3,8000,8000,Paid,Razorpay (Online)
+1729,577,Term 1,8000,8000,Paid,Razorpay (Online)
+1730,577,Term 2,8000,8000,Paid,Razorpay (Online)
+1731,577,Term 3,8000,8000,Paid,Cash
+1732,578,Term 1,8000,0,Pending,
+1733,578,Term 2,8000,0,Pending,
+1734,578,Term 3,8000,8000,Paid,Cash
+1735,579,Term 1,8000,8000,Paid,Razorpay (Online)
+1736,579,Term 2,8000,0,Pending,
+1737,579,Term 3,8000,8000,Paid,Cash
+1738,580,Term 1,8000,8000,Paid,Razorpay (Online)
+1739,580,Term 2,8000,8000,Paid,Razorpay (Online)
+1740,580,Term 3,8000,0,Pending,
+1741,581,Term 1,8000,8000,Paid,Razorpay (Online)
+1742,581,Term 2,8000,8000,Paid,Bank Transfer
+1743,581,Term 3,8000,8000,Paid,Razorpay (Online)
+1744,582,Term 1,8000,8000,Paid,Razorpay (Online)
+1745,582,Term 2,8000,3264,Overdue,
+1746,582,Term 3,8000,8000,Paid,Bank Transfer
+1747,583,Term 1,8000,8000,Paid,Razorpay (Online)
+1748,583,Term 2,8000,8000,Paid,Razorpay (Online)
+1749,583,Term 3,8000,0,Pending,
+1750,584,Term 1,8000,8000,Paid,Razorpay (Online)
+1751,584,Term 2,8000,8000,Paid,Razorpay (Online)
+1752,584,Term 3,8000,8000,Paid,Razorpay (Online)
+1753,585,Term 1,8000,8000,Paid,Razorpay (Online)
+1754,585,Term 2,8000,8000,Paid,Razorpay (Online)
+1755,585,Term 3,8000,0,Pending,
+1756,586,Term 1,8000,8000,Paid,Razorpay (Online)
+1757,586,Term 2,8000,8000,Paid,Razorpay (Online)
+1758,586,Term 3,8000,8000,Paid,Bank Transfer
+1759,587,Term 1,8000,0,Pending,
+1760,587,Term 2,8000,8000,Paid,Cash
+1761,587,Term 3,8000,8000,Paid,Razorpay (Online)
+1762,588,Term 1,8000,2079,Overdue,
+1763,588,Term 2,8000,8000,Paid,Cash
+1764,588,Term 3,8000,8000,Paid,Bank Transfer
+1765,589,Term 1,8000,8000,Paid,Razorpay (Online)
+1766,589,Term 2,8000,8000,Paid,Razorpay (Online)
+1767,589,Term 3,8000,8000,Paid,Razorpay (Online)
+1768,590,Term 1,8000,8000,Paid,Razorpay (Online)
+1769,590,Term 2,8000,8000,Paid,Cash
+1770,590,Term 3,8000,8000,Paid,Cash
+1771,591,Term 1,8000,0,Pending,
+1772,591,Term 2,8000,8000,Paid,Bank Transfer
+1773,591,Term 3,8000,8000,Paid,Razorpay (Online)
+1774,592,Term 1,8000,8000,Paid,Razorpay (Online)
+1775,592,Term 2,8000,8000,Paid,Bank Transfer
+1776,592,Term 3,8000,1948,Overdue,
+1777,593,Term 1,8000,8000,Paid,Razorpay (Online)
+1778,593,Term 2,8000,8000,Paid,Razorpay (Online)
+1779,593,Term 3,8000,8000,Paid,Cash
+1780,594,Term 1,8000,208,Overdue,
+1781,594,Term 2,8000,8000,Paid,Razorpay (Online)
+1782,594,Term 3,8000,3324,Overdue,
+1783,595,Term 1,8000,3244,Overdue,
+1784,595,Term 2,8000,8000,Paid,Razorpay (Online)
+1785,595,Term 3,8000,3101,Overdue,
+1786,596,Term 1,8000,8000,Paid,Cash
+1787,596,Term 2,8000,8000,Paid,Razorpay (Online)
+1788,596,Term 3,8000,8000,Paid,Razorpay (Online)
+1789,597,Term 1,8000,8000,Paid,Razorpay (Online)
+1790,597,Term 2,8000,8000,Paid,Razorpay (Online)
+1791,597,Term 3,8000,3251,Overdue,
+1792,598,Term 1,8000,0,Pending,
+1793,598,Term 2,8000,8000,Paid,Razorpay (Online)
+1794,598,Term 3,8000,113,Overdue,
+1795,599,Term 1,8000,0,Pending,
+1796,599,Term 2,8000,8000,Paid,Razorpay (Online)
+1797,599,Term 3,8000,1371,Overdue,
+1798,600,Term 1,8000,1802,Overdue,
+1799,600,Term 2,8000,8000,Paid,Razorpay (Online)
+1800,600,Term 3,8000,8000,Paid,Razorpay (Online)
+1801,601,Term 1,8000,339,Overdue,
+1802,601,Term 2,8000,8000,Paid,Cash
+1803,601,Term 3,8000,8000,Paid,Cash
+1804,602,Term 1,8000,0,Pending,
+1805,602,Term 2,8000,8000,Paid,Razorpay (Online)
+1806,602,Term 3,8000,920,Overdue,
+1807,603,Term 1,8000,0,Pending,
+1808,603,Term 2,8000,8000,Paid,Razorpay (Online)
+1809,603,Term 3,8000,1096,Overdue,
+1810,604,Term 1,8000,0,Pending,
+1811,604,Term 2,8000,8000,Paid,Razorpay (Online)
+1812,604,Term 3,8000,8000,Paid,Razorpay (Online)
+1813,605,Term 1,8000,8000,Paid,Cash
+1814,605,Term 2,8000,8000,Paid,Cash
+1815,605,Term 3,8000,0,Pending,
+1816,606,Term 1,8000,8000,Paid,Razorpay (Online)
+1817,606,Term 2,8000,8000,Paid,Razorpay (Online)
+1818,606,Term 3,8000,8000,Paid,Razorpay (Online)
+1819,607,Term 1,8000,8000,Paid,Razorpay (Online)
+1820,607,Term 2,8000,8000,Paid,Razorpay (Online)
+1821,607,Term 3,8000,8000,Paid,Razorpay (Online)
+1822,608,Term 1,8000,1806,Overdue,
+1823,608,Term 2,8000,0,Pending,
+1824,608,Term 3,8000,8000,Paid,Cash
+1825,609,Term 1,8000,8000,Paid,Razorpay (Online)
+1826,609,Term 2,8000,8000,Paid,Cash
+1827,609,Term 3,8000,0,Pending,
+1828,610,Term 1,8000,8000,Paid,Cash
+1829,610,Term 2,8000,8000,Paid,Cash
+1830,610,Term 3,8000,8000,Paid,Razorpay (Online)
+1831,611,Term 1,8000,8000,Paid,Razorpay (Online)
+1832,611,Term 2,8000,0,Pending,
+1833,611,Term 3,8000,8000,Paid,Razorpay (Online)
+1834,612,Term 1,8000,8000,Paid,Razorpay (Online)
+1835,612,Term 2,8000,8000,Paid,Cash
+1836,612,Term 3,8000,8000,Paid,Cash
+1837,613,Term 1,8000,0,Pending,
+1838,613,Term 2,8000,2099,Overdue,
+1839,613,Term 3,8000,8000,Paid,Bank Transfer
+1840,614,Term 1,8000,1121,Overdue,
+1841,614,Term 2,8000,8000,Paid,Cash
+1842,614,Term 3,8000,1169,Overdue,
+1843,615,Term 1,8000,8000,Paid,Razorpay (Online)
+1844,615,Term 2,8000,8000,Paid,Bank Transfer
+1845,615,Term 3,8000,8000,Paid,Razorpay (Online)
+1846,616,Term 1,8000,8000,Paid,Razorpay (Online)
+1847,616,Term 2,8000,8000,Paid,Razorpay (Online)
+1848,616,Term 3,8000,8000,Paid,Cash
+1849,617,Term 1,8000,8000,Paid,Razorpay (Online)
+1850,617,Term 2,8000,8000,Paid,Razorpay (Online)
+1851,617,Term 3,8000,0,Pending,
+1852,618,Term 1,8000,8000,Paid,Razorpay (Online)
+1853,618,Term 2,8000,2494,Overdue,
+1854,618,Term 3,8000,8000,Paid,Razorpay (Online)
+1855,619,Term 1,8000,8000,Paid,Cash
+1856,619,Term 2,8000,1440,Overdue,
+1857,619,Term 3,8000,8000,Paid,Cash
+1858,620,Term 1,8000,0,Pending,
+1859,620,Term 2,8000,8000,Paid,Razorpay (Online)
+1860,620,Term 3,8000,8000,Paid,Razorpay (Online)
+1861,621,Term 1,8000,8000,Paid,Cash
+1862,621,Term 2,8000,8000,Paid,Razorpay (Online)
+1863,621,Term 3,8000,8000,Paid,Razorpay (Online)
+1864,622,Term 1,8000,8000,Paid,Razorpay (Online)
+1865,622,Term 2,8000,8000,Paid,Razorpay (Online)
+1866,622,Term 3,8000,8000,Paid,Razorpay (Online)
+1867,623,Term 1,8000,0,Pending,
+1868,623,Term 2,8000,8000,Paid,Razorpay (Online)
+1869,623,Term 3,8000,8000,Paid,Cash
+1870,624,Term 1,8000,8000,Paid,Cash
+1871,624,Term 2,8000,8000,Paid,Razorpay (Online)
+1872,624,Term 3,8000,8000,Paid,Bank Transfer
+1873,625,Term 1,8000,8000,Paid,Razorpay (Online)
+1874,625,Term 2,8000,8000,Paid,Cash
+1875,625,Term 3,8000,8000,Paid,Razorpay (Online)
+1876,626,Term 1,8000,8000,Paid,Cash
+1877,626,Term 2,8000,8000,Paid,Razorpay (Online)
+1878,626,Term 3,8000,0,Pending,
+1879,627,Term 1,8000,3715,Overdue,
+1880,627,Term 2,8000,8000,Paid,Cash
+1881,627,Term 3,8000,8000,Paid,Cash
+1882,628,Term 1,8000,0,Pending,
+1883,628,Term 2,8000,8000,Paid,Razorpay (Online)
+1884,628,Term 3,8000,8000,Paid,Bank Transfer
+1885,629,Term 1,8000,8000,Paid,Razorpay (Online)
+1886,629,Term 2,8000,8000,Paid,Cash
+1887,629,Term 3,8000,0,Pending,
+1888,630,Term 1,8000,8000,Paid,Razorpay (Online)
+1889,630,Term 2,8000,8000,Paid,Cash
+1890,630,Term 3,8000,8000,Paid,Cash
+1891,631,Term 1,8000,0,Pending,
+1892,631,Term 2,8000,1065,Overdue,
+1893,631,Term 3,8000,8000,Paid,Cash
+1894,632,Term 1,8000,8000,Paid,Razorpay (Online)
+1895,632,Term 2,8000,3940,Overdue,
+1896,632,Term 3,8000,0,Pending,
+1897,633,Term 1,8000,8000,Paid,Razorpay (Online)
+1898,633,Term 2,8000,8000,Paid,Razorpay (Online)
+1899,633,Term 3,8000,0,Pending,
+1900,634,Term 1,8000,8000,Paid,Bank Transfer
+1901,634,Term 2,8000,8000,Paid,Bank Transfer
+1902,634,Term 3,8000,8000,Paid,Razorpay (Online)
+1903,635,Term 1,8000,8000,Paid,Razorpay (Online)
+1904,635,Term 2,8000,8000,Paid,Cash
+1905,635,Term 3,8000,3501,Overdue,
+1906,636,Term 1,8000,8000,Paid,Razorpay (Online)
+1907,636,Term 2,8000,3115,Overdue,
+1908,636,Term 3,8000,8000,Paid,Bank Transfer
+1909,637,Term 1,8000,8000,Paid,Cash
+1910,637,Term 2,8000,8000,Paid,Razorpay (Online)
+1911,637,Term 3,8000,8000,Paid,Cash
+1912,638,Term 1,8000,8000,Paid,Bank Transfer
+1913,638,Term 2,8000,8000,Paid,Bank Transfer
+1914,638,Term 3,8000,8000,Paid,Razorpay (Online)
+1915,639,Term 1,8000,8000,Paid,Bank Transfer
+1916,639,Term 2,8000,8000,Paid,Bank Transfer
+1917,639,Term 3,8000,8000,Paid,Razorpay (Online)
+1918,640,Term 1,8000,8000,Paid,Cash
+1919,640,Term 2,8000,0,Pending,
+1920,640,Term 3,8000,0,Pending,
+1921,641,Term 1,8000,8000,Paid,Razorpay (Online)
+1922,641,Term 2,8000,8000,Paid,Razorpay (Online)
+1923,641,Term 3,8000,8000,Paid,Cash
+1924,642,Term 1,8000,8000,Paid,Cash
+1925,642,Term 2,8000,8000,Paid,Razorpay (Online)
+1926,642,Term 3,8000,0,Pending,
+1927,643,Term 1,8000,8000,Paid,Razorpay (Online)
+1928,643,Term 2,8000,8000,Paid,Cash
+1929,643,Term 3,8000,8000,Paid,Bank Transfer
+1930,644,Term 1,8000,8000,Paid,Cash
+1931,644,Term 2,8000,0,Pending,
+1932,644,Term 3,8000,8000,Paid,Cash
+1933,645,Term 1,8000,1529,Overdue,
+1934,645,Term 2,8000,0,Pending,
+1935,645,Term 3,8000,8000,Paid,Razorpay (Online)
+1936,646,Term 1,8000,8000,Paid,Cash
+1937,646,Term 2,8000,8000,Paid,Razorpay (Online)
+1938,646,Term 3,8000,8000,Paid,Razorpay (Online)
+1939,647,Term 1,8000,8000,Paid,Razorpay (Online)
+1940,647,Term 2,8000,8000,Paid,Bank Transfer
+1941,647,Term 3,8000,8000,Paid,Razorpay (Online)
+1942,648,Term 1,8000,176,Overdue,
+1943,648,Term 2,8000,8000,Paid,Cash
+1944,648,Term 3,8000,8000,Paid,Razorpay (Online)
+1945,649,Term 1,8000,8000,Paid,Cash
+1946,649,Term 2,8000,8000,Paid,Cash
+1947,649,Term 3,8000,8000,Paid,Razorpay (Online)
+1948,650,Term 1,8000,8000,Paid,Razorpay (Online)
+1949,650,Term 2,8000,8000,Paid,Razorpay (Online)
+1950,650,Term 3,8000,8000,Paid,Bank Transfer
+1951,651,Term 1,8000,8000,Paid,Razorpay (Online)
+1952,651,Term 2,8000,8000,Paid,Razorpay (Online)
+1953,651,Term 3,8000,8000,Paid,Cash
+1954,652,Term 1,8000,2483,Overdue,
+1955,652,Term 2,8000,8000,Paid,Cash
+1956,652,Term 3,8000,8000,Paid,Razorpay (Online)
+1957,653,Term 1,8000,0,Pending,
+1958,653,Term 2,8000,8000,Paid,Cash
+1959,653,Term 3,8000,0,Pending,
+1960,654,Term 1,8000,8000,Paid,Razorpay (Online)
+1961,654,Term 2,8000,8000,Paid,Razorpay (Online)
+1962,654,Term 3,8000,8000,Paid,Razorpay (Online)
+1963,655,Term 1,8000,8000,Paid,Cash
+1964,655,Term 2,8000,8000,Paid,Razorpay (Online)
+1965,655,Term 3,8000,8000,Paid,Razorpay (Online)
+1966,656,Term 1,8000,8000,Paid,Cash
+1967,656,Term 2,8000,2812,Overdue,
+1968,656,Term 3,8000,0,Pending,
+1969,657,Term 1,8000,8000,Paid,Bank Transfer
+1970,657,Term 2,8000,0,Pending,
+1971,657,Term 3,8000,0,Pending,
+1972,658,Term 1,8000,8000,Paid,Cash
+1973,658,Term 2,8000,8000,Paid,Cash
+1974,658,Term 3,8000,8000,Paid,Razorpay (Online)
+1975,659,Term 1,8000,3816,Overdue,
+1976,659,Term 2,8000,8000,Paid,Razorpay (Online)
+1977,659,Term 3,8000,8000,Paid,Cash
+1978,660,Term 1,8000,8000,Paid,Razorpay (Online)
+1979,660,Term 2,8000,8000,Paid,Bank Transfer
+1980,660,Term 3,8000,0,Pending,
+1981,661,Term 1,8000,0,Pending,
+1982,661,Term 2,8000,8000,Paid,Razorpay (Online)
+1983,661,Term 3,8000,8000,Paid,Cash
+1984,662,Term 1,8000,8000,Paid,Razorpay (Online)
+1985,662,Term 2,8000,0,Pending,
+1986,662,Term 3,8000,0,Pending,
+1987,663,Term 1,8000,0,Pending,
+1988,663,Term 2,8000,8000,Paid,Razorpay (Online)
+1989,663,Term 3,8000,8000,Paid,Razorpay (Online)
+1990,664,Term 1,8000,3085,Overdue,
+1991,664,Term 2,8000,8000,Paid,Razorpay (Online)
+1992,664,Term 3,8000,0,Pending,
+1993,665,Term 1,8000,8000,Paid,Cash
+1994,665,Term 2,8000,0,Pending,
+1995,665,Term 3,8000,8000,Paid,Cash
+1996,666,Term 1,8000,8000,Paid,Bank Transfer
+1997,666,Term 2,8000,3250,Overdue,
+1998,666,Term 3,8000,0,Pending,
+1999,667,Term 1,8000,503,Overdue,
+2000,667,Term 2,8000,8000,Paid,Cash
+2001,667,Term 3,8000,8000,Paid,Cash
+2002,668,Term 1,8000,0,Pending,
+2003,668,Term 2,8000,8000,Paid,Cash
+2004,668,Term 3,8000,8000,Paid,Cash
+2005,669,Term 1,8000,8000,Paid,Razorpay (Online)
+2006,669,Term 2,8000,8000,Paid,Razorpay (Online)
+2007,669,Term 3,8000,3287,Overdue,
+2008,670,Term 1,8000,0,Pending,
+2009,670,Term 2,8000,8000,Paid,Razorpay (Online)
+2010,670,Term 3,8000,8000,Paid,Cash
+2011,671,Term 1,8000,8000,Paid,Razorpay (Online)
+2012,671,Term 2,8000,0,Pending,
+2013,671,Term 3,8000,8000,Paid,Razorpay (Online)
+2014,672,Term 1,8000,0,Pending,
+2015,672,Term 2,8000,8000,Paid,Razorpay (Online)
+2016,672,Term 3,8000,0,Pending,
+2017,673,Term 1,8000,8000,Paid,Bank Transfer
+2018,673,Term 2,8000,8000,Paid,Bank Transfer
+2019,673,Term 3,8000,8000,Paid,Cash
+2020,674,Term 1,8000,0,Pending,
+2021,674,Term 2,8000,8000,Paid,Cash
+2022,674,Term 3,8000,8000,Paid,Razorpay (Online)
+2023,675,Term 1,8000,8000,Paid,Bank Transfer
+2024,675,Term 2,8000,0,Pending,
+2025,675,Term 3,8000,3289,Overdue,
+2026,676,Term 1,8000,8000,Paid,Cash
+2027,676,Term 2,8000,8000,Paid,Razorpay (Online)
+2028,676,Term 3,8000,0,Pending,
+2029,677,Term 1,8000,8000,Paid,Razorpay (Online)
+2030,677,Term 2,8000,8000,Paid,Razorpay (Online)
+2031,677,Term 3,8000,8000,Paid,Bank Transfer
+2032,678,Term 1,8000,8000,Paid,Cash
+2033,678,Term 2,8000,8000,Paid,Razorpay (Online)
+2034,678,Term 3,8000,0,Pending,
+2035,679,Term 1,8000,0,Pending,
+2036,679,Term 2,8000,8000,Paid,Bank Transfer
+2037,679,Term 3,8000,8000,Paid,Razorpay (Online)
+2038,680,Term 1,8000,8000,Paid,Cash
+2039,680,Term 2,8000,8000,Paid,Razorpay (Online)
+2040,680,Term 3,8000,8000,Paid,Cash
+2041,681,Term 1,8000,8000,Paid,Razorpay (Online)
+2042,681,Term 2,8000,8000,Paid,Razorpay (Online)
+2043,681,Term 3,8000,8000,Paid,Razorpay (Online)
+2044,682,Term 1,8000,8000,Paid,Razorpay (Online)
+2045,682,Term 2,8000,8000,Paid,Razorpay (Online)
+2046,682,Term 3,8000,3678,Overdue,
+2047,683,Term 1,8000,0,Pending,
+2048,683,Term 2,8000,2971,Overdue,
+2049,683,Term 3,8000,8000,Paid,Razorpay (Online)
+2050,684,Term 1,8000,1783,Overdue,
+2051,684,Term 2,8000,8000,Paid,Cash
+2052,684,Term 3,8000,0,Pending,
+2053,685,Term 1,8000,8000,Paid,Razorpay (Online)
+2054,685,Term 2,8000,8000,Paid,Cash
+2055,685,Term 3,8000,0,Pending,
+2056,686,Term 1,8000,3791,Overdue,
+2057,686,Term 2,8000,8000,Paid,Bank Transfer
+2058,686,Term 3,8000,8000,Paid,Bank Transfer
+2059,687,Term 1,8000,8000,Paid,Razorpay (Online)
+2060,687,Term 2,8000,8000,Paid,Razorpay (Online)
+2061,687,Term 3,8000,0,Pending,
+2062,688,Term 1,8000,0,Pending,
+2063,688,Term 2,8000,8000,Paid,Razorpay (Online)
+2064,688,Term 3,8000,1480,Overdue,
+2065,689,Term 1,8000,8000,Paid,Razorpay (Online)
+2066,689,Term 2,8000,0,Pending,
+2067,689,Term 3,8000,8000,Paid,Cash
+2068,690,Term 1,8000,8000,Paid,Cash
+2069,690,Term 2,8000,0,Pending,
+2070,690,Term 3,8000,8000,Paid,Bank Transfer
+2071,691,Term 1,8000,8000,Paid,Cash
+2072,691,Term 2,8000,8000,Paid,Razorpay (Online)
+2073,691,Term 3,8000,8000,Paid,Cash
+2074,692,Term 1,8000,8000,Paid,Bank Transfer
+2075,692,Term 2,8000,0,Pending,
+2076,692,Term 3,8000,8000,Paid,Cash
+2077,693,Term 1,8000,8000,Paid,Bank Transfer
+2078,693,Term 2,8000,0,Pending,
+2079,693,Term 3,8000,8000,Paid,Bank Transfer
+2080,694,Term 1,8000,8000,Paid,Cash
+2081,694,Term 2,8000,8000,Paid,Razorpay (Online)
+2082,694,Term 3,8000,8000,Paid,Razorpay (Online)
+2083,695,Term 1,8000,8000,Paid,Bank Transfer
+2084,695,Term 2,8000,2250,Overdue,
+2085,695,Term 3,8000,8000,Paid,Cash
+2086,696,Term 1,8000,8000,Paid,Razorpay (Online)
+2087,696,Term 2,8000,0,Pending,
+2088,696,Term 3,8000,8000,Paid,Cash
+2089,697,Term 1,8000,8000,Paid,Razorpay (Online)
+2090,697,Term 2,8000,2288,Overdue,
+2091,697,Term 3,8000,8000,Paid,Razorpay (Online)
+2092,698,Term 1,8000,0,Pending,
+2093,698,Term 2,8000,8000,Paid,Cash
+2094,698,Term 3,8000,0,Pending,
+2095,699,Term 1,8000,8000,Paid,Razorpay (Online)
+2096,699,Term 2,8000,8000,Paid,Razorpay (Online)
+2097,699,Term 3,8000,2772,Overdue,
+2098,700,Term 1,8000,1993,Overdue,
+2099,700,Term 2,8000,8000,Paid,Razorpay (Online)
+2100,700,Term 3,8000,0,Pending,
+2101,701,Term 1,8000,8000,Paid,Cash
+2102,701,Term 2,8000,8000,Paid,Bank Transfer
+2103,701,Term 3,8000,0,Pending,
+2104,702,Term 1,8000,2599,Overdue,
+2105,702,Term 2,8000,8000,Paid,Razorpay (Online)
+2106,702,Term 3,8000,8000,Paid,Razorpay (Online)
+2107,703,Term 1,8000,0,Pending,
+2108,703,Term 2,8000,8000,Paid,Razorpay (Online)
+2109,703,Term 3,8000,0,Pending,
+2110,704,Term 1,8000,8000,Paid,Bank Transfer
+2111,704,Term 2,8000,8000,Paid,Razorpay (Online)
+2112,704,Term 3,8000,0,Pending,
+2113,705,Term 1,8000,8000,Paid,Razorpay (Online)
+2114,705,Term 2,8000,8000,Paid,Bank Transfer
+2115,705,Term 3,8000,3290,Overdue,
+2116,706,Term 1,8000,8000,Paid,Cash
+2117,706,Term 2,8000,2424,Overdue,
+2118,706,Term 3,8000,3069,Overdue,
+2119,707,Term 1,8000,8000,Paid,Razorpay (Online)
+2120,707,Term 2,8000,8000,Paid,Razorpay (Online)
+2121,707,Term 3,8000,8000,Paid,Razorpay (Online)
+2122,708,Term 1,8000,8000,Paid,Bank Transfer
+2123,708,Term 2,8000,8000,Paid,Razorpay (Online)
+2124,708,Term 3,8000,8000,Paid,Razorpay (Online)
+2125,709,Term 1,8000,8000,Paid,Cash
+2126,709,Term 2,8000,8000,Paid,Cash
+2127,709,Term 3,8000,8000,Paid,Cash
+2128,710,Term 1,8000,8000,Paid,Razorpay (Online)
+2129,710,Term 2,8000,8000,Paid,Razorpay (Online)
+2130,710,Term 3,8000,8000,Paid,Razorpay (Online)
+2131,711,Term 1,8000,8000,Paid,Razorpay (Online)
+2132,711,Term 2,8000,0,Pending,
+2133,711,Term 3,8000,8000,Paid,Razorpay (Online)
+2134,712,Term 1,8000,8000,Paid,Cash
+2135,712,Term 2,8000,8000,Paid,Razorpay (Online)
+2136,712,Term 3,8000,8000,Paid,Razorpay (Online)
+2137,713,Term 1,8000,8000,Paid,Razorpay (Online)
+2138,713,Term 2,8000,0,Pending,
+2139,713,Term 3,8000,8000,Paid,Razorpay (Online)
+2140,714,Term 1,8000,0,Pending,
+2141,714,Term 2,8000,8000,Paid,Razorpay (Online)
+2142,714,Term 3,8000,8000,Paid,Razorpay (Online)
+2143,715,Term 1,8000,0,Pending,
+2144,715,Term 2,8000,0,Pending,
+2145,715,Term 3,8000,8000,Paid,Razorpay (Online)
+2146,716,Term 1,8000,3631,Overdue,
+2147,716,Term 2,8000,8000,Paid,Razorpay (Online)
+2148,716,Term 3,8000,8000,Paid,Cash
+2149,717,Term 1,8000,0,Pending,
+2150,717,Term 2,8000,8000,Paid,Cash
+2151,717,Term 3,8000,0,Pending,
+2152,718,Term 1,8000,8000,Paid,Razorpay (Online)
+2153,718,Term 2,8000,8000,Paid,Razorpay (Online)
+2154,718,Term 3,8000,8000,Paid,Cash
+2155,719,Term 1,8000,8000,Paid,Bank Transfer
+2156,719,Term 2,8000,8000,Paid,Cash
+2157,719,Term 3,8000,0,Pending,
+2158,720,Term 1,8000,8000,Paid,Razorpay (Online)
+2159,720,Term 2,8000,8000,Paid,Cash
+2160,720,Term 3,8000,8000,Paid,Bank Transfer
+2161,721,Term 1,8667,0,Pending,
+2162,721,Term 2,8667,8667,Paid,Cash
+2163,721,Term 3,8667,8667,Paid,Bank Transfer
+2164,722,Term 1,8667,8667,Paid,Bank Transfer
+2165,722,Term 2,8667,8667,Paid,Razorpay (Online)
+2166,722,Term 3,8667,0,Pending,
+2167,723,Term 1,8667,8667,Paid,Cash
+2168,723,Term 2,8667,0,Pending,
+2169,723,Term 3,8667,0,Pending,
+2170,724,Term 1,8667,0,Pending,
+2171,724,Term 2,8667,8667,Paid,Razorpay (Online)
+2172,724,Term 3,8667,8667,Paid,Razorpay (Online)
+2173,725,Term 1,8667,426,Overdue,
+2174,725,Term 2,8667,8667,Paid,Razorpay (Online)
+2175,725,Term 3,8667,8667,Paid,Cash
+2176,726,Term 1,8667,8667,Paid,Cash
+2177,726,Term 2,8667,0,Pending,
+2178,726,Term 3,8667,8667,Paid,Razorpay (Online)
+2179,727,Term 1,8667,8667,Paid,Bank Transfer
+2180,727,Term 2,8667,8667,Paid,Cash
+2181,727,Term 3,8667,8667,Paid,Cash
+2182,728,Term 1,8667,8667,Paid,Razorpay (Online)
+2183,728,Term 2,8667,8667,Paid,Cash
+2184,728,Term 3,8667,8667,Paid,Cash
+2185,729,Term 1,8667,0,Pending,
+2186,729,Term 2,8667,0,Pending,
+2187,729,Term 3,8667,0,Pending,
+2188,730,Term 1,8667,0,Pending,
+2189,730,Term 2,8667,8667,Paid,Bank Transfer
+2190,730,Term 3,8667,8667,Paid,Razorpay (Online)
+2191,731,Term 1,8667,8667,Paid,Razorpay (Online)
+2192,731,Term 2,8667,8667,Paid,Razorpay (Online)
+2193,731,Term 3,8667,8667,Paid,Cash
+2194,732,Term 1,8667,0,Pending,
+2195,732,Term 2,8667,8667,Paid,Cash
+2196,732,Term 3,8667,8667,Paid,Razorpay (Online)
+2197,733,Term 1,8667,1329,Overdue,
+2198,733,Term 2,8667,3124,Overdue,
+2199,733,Term 3,8667,8667,Paid,Razorpay (Online)
+2200,734,Term 1,8667,0,Pending,
+2201,734,Term 2,8667,0,Pending,
+2202,734,Term 3,8667,8667,Paid,Bank Transfer
+2203,735,Term 1,8667,8667,Paid,Razorpay (Online)
+2204,735,Term 2,8667,475,Overdue,
+2205,735,Term 3,8667,8667,Paid,Cash
+2206,736,Term 1,8667,8667,Paid,Razorpay (Online)
+2207,736,Term 2,8667,0,Pending,
+2208,736,Term 3,8667,1545,Overdue,
+2209,737,Term 1,8667,8667,Paid,Cash
+2210,737,Term 2,8667,8667,Paid,Cash
+2211,737,Term 3,8667,0,Pending,
+2212,738,Term 1,8667,8667,Paid,Bank Transfer
+2213,738,Term 2,8667,8667,Paid,Razorpay (Online)
+2214,738,Term 3,8667,8667,Paid,Razorpay (Online)
+2215,739,Term 1,8667,8667,Paid,Razorpay (Online)
+2216,739,Term 2,8667,1358,Overdue,
+2217,739,Term 3,8667,8667,Paid,Bank Transfer
+2218,740,Term 1,8667,8667,Paid,Bank Transfer
+2219,740,Term 2,8667,0,Pending,
+2220,740,Term 3,8667,8667,Paid,Bank Transfer
+2221,741,Term 1,8667,253,Overdue,
+2222,741,Term 2,8667,8667,Paid,Razorpay (Online)
+2223,741,Term 3,8667,8667,Paid,Cash
+2224,742,Term 1,8667,2812,Overdue,
+2225,742,Term 2,8667,8667,Paid,Razorpay (Online)
+2226,742,Term 3,8667,8667,Paid,Razorpay (Online)
+2227,743,Term 1,8667,8667,Paid,Razorpay (Online)
+2228,743,Term 2,8667,8667,Paid,Bank Transfer
+2229,743,Term 3,8667,0,Pending,
+2230,744,Term 1,8667,8667,Paid,Bank Transfer
+2231,744,Term 2,8667,8667,Paid,Cash
+2232,744,Term 3,8667,0,Pending,
+2233,745,Term 1,8667,8667,Paid,Razorpay (Online)
+2234,745,Term 2,8667,8667,Paid,Cash
+2235,745,Term 3,8667,8667,Paid,Razorpay (Online)
+2236,746,Term 1,8667,8667,Paid,Razorpay (Online)
+2237,746,Term 2,8667,970,Overdue,
+2238,746,Term 3,8667,938,Overdue,
+2239,747,Term 1,8667,8667,Paid,Razorpay (Online)
+2240,747,Term 2,8667,8667,Paid,Razorpay (Online)
+2241,747,Term 3,8667,8667,Paid,Cash
+2242,748,Term 1,8667,0,Pending,
+2243,748,Term 2,8667,8667,Paid,Bank Transfer
+2244,748,Term 3,8667,8667,Paid,Cash
+2245,749,Term 1,8667,1726,Overdue,
+2246,749,Term 2,8667,8667,Paid,Cash
+2247,749,Term 3,8667,1635,Overdue,
+2248,750,Term 1,8667,8667,Paid,Razorpay (Online)
+2249,750,Term 2,8667,8667,Paid,Cash
+2250,750,Term 3,8667,8667,Paid,Razorpay (Online)
+2251,751,Term 1,8667,0,Pending,
+2252,751,Term 2,8667,8667,Paid,Cash
+2253,751,Term 3,8667,0,Pending,
+2254,752,Term 1,8667,8667,Paid,Bank Transfer
+2255,752,Term 2,8667,8667,Paid,Razorpay (Online)
+2256,752,Term 3,8667,8667,Paid,Razorpay (Online)
+2257,753,Term 1,8667,0,Pending,
+2258,753,Term 2,8667,8667,Paid,Razorpay (Online)
+2259,753,Term 3,8667,3331,Overdue,
+2260,754,Term 1,8667,8667,Paid,Razorpay (Online)
+2261,754,Term 2,8667,8667,Paid,Bank Transfer
+2262,754,Term 3,8667,8667,Paid,Cash
+2263,755,Term 1,8667,8667,Paid,Cash
+2264,755,Term 2,8667,8667,Paid,Cash
+2265,755,Term 3,8667,8667,Paid,Razorpay (Online)
+2266,756,Term 1,8667,8667,Paid,Razorpay (Online)
+2267,756,Term 2,8667,8667,Paid,Cash
+2268,756,Term 3,8667,8667,Paid,Cash
+2269,757,Term 1,8667,8667,Paid,Cash
+2270,757,Term 2,8667,2045,Overdue,
+2271,757,Term 3,8667,8667,Paid,Razorpay (Online)
+2272,758,Term 1,8667,0,Pending,
+2273,758,Term 2,8667,792,Overdue,
+2274,758,Term 3,8667,8667,Paid,Cash
+2275,759,Term 1,8667,8667,Paid,Razorpay (Online)
+2276,759,Term 2,8667,8667,Paid,Razorpay (Online)
+2277,759,Term 3,8667,2296,Overdue,
+2278,760,Term 1,8667,3853,Overdue,
+2279,760,Term 2,8667,0,Pending,
+2280,760,Term 3,8667,8667,Paid,Razorpay (Online)
+2281,761,Term 1,8667,8667,Paid,Razorpay (Online)
+2282,761,Term 2,8667,8667,Paid,Razorpay (Online)
+2283,761,Term 3,8667,90,Overdue,
+2284,762,Term 1,8667,1177,Overdue,
+2285,762,Term 2,8667,0,Pending,
+2286,762,Term 3,8667,8667,Paid,Razorpay (Online)
+2287,763,Term 1,8667,3709,Overdue,
+2288,763,Term 2,8667,2582,Overdue,
+2289,763,Term 3,8667,8667,Paid,Cash
+2290,764,Term 1,8667,8667,Paid,Razorpay (Online)
+2291,764,Term 2,8667,8667,Paid,Razorpay (Online)
+2292,764,Term 3,8667,8667,Paid,Bank Transfer
+2293,765,Term 1,8667,8667,Paid,Razorpay (Online)
+2294,765,Term 2,8667,8667,Paid,Razorpay (Online)
+2295,765,Term 3,8667,8667,Paid,Razorpay (Online)
+2296,766,Term 1,8667,8667,Paid,Cash
+2297,766,Term 2,8667,8667,Paid,Razorpay (Online)
+2298,766,Term 3,8667,8667,Paid,Razorpay (Online)
+2299,767,Term 1,8667,8667,Paid,Cash
+2300,767,Term 2,8667,8667,Paid,Razorpay (Online)
+2301,767,Term 3,8667,8667,Paid,Bank Transfer
+2302,768,Term 1,8667,0,Pending,
+2303,768,Term 2,8667,8667,Paid,Bank Transfer
+2304,768,Term 3,8667,0,Pending,
+2305,769,Term 1,8667,8667,Paid,Razorpay (Online)
+2306,769,Term 2,8667,8667,Paid,Razorpay (Online)
+2307,769,Term 3,8667,8667,Paid,Cash
+2308,770,Term 1,8667,1351,Overdue,
+2309,770,Term 2,8667,8667,Paid,Razorpay (Online)
+2310,770,Term 3,8667,8667,Paid,Razorpay (Online)
+2311,771,Term 1,8667,590,Overdue,
+2312,771,Term 2,8667,8667,Paid,Bank Transfer
+2313,771,Term 3,8667,8667,Paid,Cash
+2314,772,Term 1,8667,8667,Paid,Razorpay (Online)
+2315,772,Term 2,8667,8667,Paid,Bank Transfer
+2316,772,Term 3,8667,398,Overdue,
+2317,773,Term 1,8667,8667,Paid,Bank Transfer
+2318,773,Term 2,8667,8667,Paid,Razorpay (Online)
+2319,773,Term 3,8667,2413,Overdue,
+2320,774,Term 1,8667,3868,Overdue,
+2321,774,Term 2,8667,8667,Paid,Razorpay (Online)
+2322,774,Term 3,8667,8667,Paid,Razorpay (Online)
+2323,775,Term 1,8667,8667,Paid,Cash
+2324,775,Term 2,8667,8667,Paid,Razorpay (Online)
+2325,775,Term 3,8667,8667,Paid,Razorpay (Online)
+2326,776,Term 1,8667,8667,Paid,Razorpay (Online)
+2327,776,Term 2,8667,8667,Paid,Razorpay (Online)
+2328,776,Term 3,8667,8667,Paid,Razorpay (Online)
+2329,777,Term 1,8667,0,Pending,
+2330,777,Term 2,8667,8667,Paid,Cash
+2331,777,Term 3,8667,8667,Paid,Cash
+2332,778,Term 1,8667,8667,Paid,Razorpay (Online)
+2333,778,Term 2,8667,8667,Paid,Cash
+2334,778,Term 3,8667,8667,Paid,Razorpay (Online)
+2335,779,Term 1,8667,8667,Paid,Razorpay (Online)
+2336,779,Term 2,8667,8667,Paid,Razorpay (Online)
+2337,779,Term 3,8667,8667,Paid,Razorpay (Online)
+2338,780,Term 1,8667,0,Pending,
+2339,780,Term 2,8667,8667,Paid,Razorpay (Online)
+2340,780,Term 3,8667,8667,Paid,Razorpay (Online)
+2341,781,Term 1,8667,4247,Overdue,
+2342,781,Term 2,8667,8667,Paid,Bank Transfer
+2343,781,Term 3,8667,8667,Paid,Bank Transfer
+2344,782,Term 1,8667,8667,Paid,Razorpay (Online)
+2345,782,Term 2,8667,8667,Paid,Razorpay (Online)
+2346,782,Term 3,8667,8667,Paid,Bank Transfer
+2347,783,Term 1,8667,8667,Paid,Razorpay (Online)
+2348,783,Term 2,8667,8667,Paid,Bank Transfer
+2349,783,Term 3,8667,8667,Paid,Razorpay (Online)
+2350,784,Term 1,8667,8667,Paid,Razorpay (Online)
+2351,784,Term 2,8667,8667,Paid,Razorpay (Online)
+2352,784,Term 3,8667,8667,Paid,Cash
+2353,785,Term 1,8667,0,Pending,
+2354,785,Term 2,8667,8667,Paid,Razorpay (Online)
+2355,785,Term 3,8667,8667,Paid,Razorpay (Online)
+2356,786,Term 1,8667,8667,Paid,Cash
+2357,786,Term 2,8667,8667,Paid,Bank Transfer
+2358,786,Term 3,8667,8667,Paid,Razorpay (Online)
+2359,787,Term 1,8667,8667,Paid,Cash
+2360,787,Term 2,8667,8667,Paid,Razorpay (Online)
+2361,787,Term 3,8667,8667,Paid,Cash
+2362,788,Term 1,8667,8667,Paid,Razorpay (Online)
+2363,788,Term 2,8667,8667,Paid,Bank Transfer
+2364,788,Term 3,8667,0,Pending,
+2365,789,Term 1,8667,2207,Overdue,
+2366,789,Term 2,8667,8667,Paid,Cash
+2367,789,Term 3,8667,8667,Paid,Razorpay (Online)
+2368,790,Term 1,8667,8667,Paid,Razorpay (Online)
+2369,790,Term 2,8667,8667,Paid,Bank Transfer
+2370,790,Term 3,8667,8667,Paid,Razorpay (Online)
+2371,791,Term 1,8667,8667,Paid,Razorpay (Online)
+2372,791,Term 2,8667,0,Pending,
+2373,791,Term 3,8667,8667,Paid,Cash
+2374,792,Term 1,8667,0,Pending,
+2375,792,Term 2,8667,8667,Paid,Cash
+2376,792,Term 3,8667,8667,Paid,Razorpay (Online)
+2377,793,Term 1,8667,8667,Paid,Cash
+2378,793,Term 2,8667,0,Pending,
+2379,793,Term 3,8667,8667,Paid,Razorpay (Online)
+2380,794,Term 1,8667,3205,Overdue,
+2381,794,Term 2,8667,8667,Paid,Bank Transfer
+2382,794,Term 3,8667,8667,Paid,Cash
+2383,795,Term 1,8667,8667,Paid,Razorpay (Online)
+2384,795,Term 2,8667,8667,Paid,Cash
+2385,795,Term 3,8667,0,Pending,
+2386,796,Term 1,8667,0,Pending,
+2387,796,Term 2,8667,8667,Paid,Bank Transfer
+2388,796,Term 3,8667,0,Pending,
+2389,797,Term 1,8667,0,Pending,
+2390,797,Term 2,8667,8667,Paid,Razorpay (Online)
+2391,797,Term 3,8667,8667,Paid,Razorpay (Online)
+2392,798,Term 1,8667,0,Pending,
+2393,798,Term 2,8667,8667,Paid,Cash
+2394,798,Term 3,8667,8667,Paid,Cash
+2395,799,Term 1,8667,8667,Paid,Razorpay (Online)
+2396,799,Term 2,8667,0,Pending,
+2397,799,Term 3,8667,8667,Paid,Razorpay (Online)
+2398,800,Term 1,8667,0,Pending,
+2399,800,Term 2,8667,8667,Paid,Cash
+2400,800,Term 3,8667,8667,Paid,Cash
+2401,801,Term 1,8667,8667,Paid,Razorpay (Online)
+2402,801,Term 2,8667,8667,Paid,Razorpay (Online)
+2403,801,Term 3,8667,8667,Paid,Razorpay (Online)
+2404,802,Term 1,8667,8667,Paid,Cash
+2405,802,Term 2,8667,0,Pending,
+2406,802,Term 3,8667,8667,Paid,Razorpay (Online)
+2407,803,Term 1,8667,8667,Paid,Cash
+2408,803,Term 2,8667,8667,Paid,Bank Transfer
+2409,803,Term 3,8667,0,Pending,
+2410,804,Term 1,8667,8667,Paid,Razorpay (Online)
+2411,804,Term 2,8667,0,Pending,
+2412,804,Term 3,8667,3232,Overdue,
+2413,805,Term 1,8667,8667,Paid,Cash
+2414,805,Term 2,8667,8667,Paid,Razorpay (Online)
+2415,805,Term 3,8667,2041,Overdue,
+2416,806,Term 1,8667,8667,Paid,Razorpay (Online)
+2417,806,Term 2,8667,8667,Paid,Razorpay (Online)
+2418,806,Term 3,8667,8667,Paid,Bank Transfer
+2419,807,Term 1,8667,8667,Paid,Bank Transfer
+2420,807,Term 2,8667,8667,Paid,Razorpay (Online)
+2421,807,Term 3,8667,8667,Paid,Bank Transfer
+2422,808,Term 1,8667,8667,Paid,Cash
+2423,808,Term 2,8667,8667,Paid,Bank Transfer
+2424,808,Term 3,8667,0,Pending,
+2425,809,Term 1,8667,0,Pending,
+2426,809,Term 2,8667,8667,Paid,Razorpay (Online)
+2427,809,Term 3,8667,8667,Paid,Bank Transfer
+2428,810,Term 1,8667,8667,Paid,Razorpay (Online)
+2429,810,Term 2,8667,8667,Paid,Razorpay (Online)
+2430,810,Term 3,8667,8667,Paid,Bank Transfer
+2431,811,Term 1,8667,8667,Paid,Bank Transfer
+2432,811,Term 2,8667,0,Pending,
+2433,811,Term 3,8667,0,Pending,
+2434,812,Term 1,8667,8667,Paid,Razorpay (Online)
+2435,812,Term 2,8667,8667,Paid,Razorpay (Online)
+2436,812,Term 3,8667,8667,Paid,Razorpay (Online)
+2437,813,Term 1,8667,8667,Paid,Razorpay (Online)
+2438,813,Term 2,8667,8667,Paid,Cash
+2439,813,Term 3,8667,8667,Paid,Razorpay (Online)
+2440,814,Term 1,8667,0,Pending,
+2441,814,Term 2,8667,8667,Paid,Razorpay (Online)
+2442,814,Term 3,8667,3194,Overdue,
+2443,815,Term 1,8667,8667,Paid,Bank Transfer
+2444,815,Term 2,8667,0,Pending,
+2445,815,Term 3,8667,8667,Paid,Bank Transfer
+2446,816,Term 1,8667,8667,Paid,Cash
+2447,816,Term 2,8667,0,Pending,
+2448,816,Term 3,8667,8667,Paid,Razorpay (Online)
+2449,817,Term 1,8667,8667,Paid,Cash
+2450,817,Term 2,8667,8667,Paid,Cash
+2451,817,Term 3,8667,3724,Overdue,
+2452,818,Term 1,8667,8667,Paid,Cash
+2453,818,Term 2,8667,8667,Paid,Razorpay (Online)
+2454,818,Term 3,8667,8667,Paid,Cash
+2455,819,Term 1,8667,8667,Paid,Razorpay (Online)
+2456,819,Term 2,8667,8667,Paid,Cash
+2457,819,Term 3,8667,8667,Paid,Cash
+2458,820,Term 1,8667,8667,Paid,Bank Transfer
+2459,820,Term 2,8667,8667,Paid,Cash
+2460,820,Term 3,8667,0,Pending,
+2461,821,Term 1,8667,8667,Paid,Cash
+2462,821,Term 2,8667,8667,Paid,Cash
+2463,821,Term 3,8667,8667,Paid,Cash
+2464,822,Term 1,8667,4235,Overdue,
+2465,822,Term 2,8667,8667,Paid,Bank Transfer
+2466,822,Term 3,8667,8667,Paid,Razorpay (Online)
+2467,823,Term 1,8667,8667,Paid,Razorpay (Online)
+2468,823,Term 2,8667,8667,Paid,Bank Transfer
+2469,823,Term 3,8667,0,Pending,
+2470,824,Term 1,8667,8667,Paid,Cash
+2471,824,Term 2,8667,8667,Paid,Razorpay (Online)
+2472,824,Term 3,8667,8667,Paid,Razorpay (Online)
+2473,825,Term 1,8667,8667,Paid,Bank Transfer
+2474,825,Term 2,8667,0,Pending,
+2475,825,Term 3,8667,8667,Paid,Razorpay (Online)
+2476,826,Term 1,8667,8667,Paid,Razorpay (Online)
+2477,826,Term 2,8667,8667,Paid,Razorpay (Online)
+2478,826,Term 3,8667,8667,Paid,Razorpay (Online)
+2479,827,Term 1,8667,8667,Paid,Razorpay (Online)
+2480,827,Term 2,8667,8667,Paid,Cash
+2481,827,Term 3,8667,8667,Paid,Cash
+2482,828,Term 1,8667,0,Pending,
+2483,828,Term 2,8667,0,Pending,
+2484,828,Term 3,8667,8667,Paid,Cash
+2485,829,Term 1,8667,0,Pending,
+2486,829,Term 2,8667,4070,Overdue,
+2487,829,Term 3,8667,8667,Paid,Cash
+2488,830,Term 1,8667,1017,Overdue,
+2489,830,Term 2,8667,0,Pending,
+2490,830,Term 3,8667,8667,Paid,Cash
+2491,831,Term 1,8667,0,Pending,
+2492,831,Term 2,8667,4139,Overdue,
+2493,831,Term 3,8667,8667,Paid,Razorpay (Online)
+2494,832,Term 1,8667,8667,Paid,Cash
+2495,832,Term 2,8667,8667,Paid,Razorpay (Online)
+2496,832,Term 3,8667,8667,Paid,Bank Transfer
+2497,833,Term 1,8667,0,Pending,
+2498,833,Term 2,8667,3464,Overdue,
+2499,833,Term 3,8667,8667,Paid,Cash
+2500,834,Term 1,8667,2610,Overdue,
+2501,834,Term 2,8667,8667,Paid,Cash
+2502,834,Term 3,8667,0,Pending,
+2503,835,Term 1,8667,8667,Paid,Razorpay (Online)
+2504,835,Term 2,8667,8667,Paid,Razorpay (Online)
+2505,835,Term 3,8667,8667,Paid,Bank Transfer
+2506,836,Term 1,8667,8667,Paid,Bank Transfer
+2507,836,Term 2,8667,8667,Paid,Razorpay (Online)
+2508,836,Term 3,8667,3171,Overdue,
+2509,837,Term 1,8667,0,Pending,
+2510,837,Term 2,8667,8667,Paid,Bank Transfer
+2511,837,Term 3,8667,0,Pending,
+2512,838,Term 1,8667,0,Pending,
+2513,838,Term 2,8667,0,Pending,
+2514,838,Term 3,8667,0,Pending,
+2515,839,Term 1,8667,1643,Overdue,
+2516,839,Term 2,8667,8667,Paid,Razorpay (Online)
+2517,839,Term 3,8667,0,Pending,
+2518,840,Term 1,8667,0,Pending,
+2519,840,Term 2,8667,8667,Paid,Razorpay (Online)
+2520,840,Term 3,8667,8667,Paid,Cash
+2521,841,Term 1,8667,8667,Paid,Bank Transfer
+2522,841,Term 2,8667,8667,Paid,Razorpay (Online)
+2523,841,Term 3,8667,8667,Paid,Razorpay (Online)
+2524,842,Term 1,8667,8667,Paid,Razorpay (Online)
+2525,842,Term 2,8667,0,Pending,
+2526,842,Term 3,8667,8667,Paid,Razorpay (Online)
+2527,843,Term 1,8667,8667,Paid,Cash
+2528,843,Term 2,8667,8667,Paid,Bank Transfer
+2529,843,Term 3,8667,8667,Paid,Cash
+2530,844,Term 1,8667,8667,Paid,Cash
+2531,844,Term 2,8667,8667,Paid,Razorpay (Online)
+2532,844,Term 3,8667,8667,Paid,Bank Transfer
+2533,845,Term 1,8667,1976,Overdue,
+2534,845,Term 2,8667,847,Overdue,
+2535,845,Term 3,8667,195,Overdue,
+2536,846,Term 1,8667,8667,Paid,Razorpay (Online)
+2537,846,Term 2,8667,1046,Overdue,
+2538,846,Term 3,8667,3347,Overdue,
+2539,847,Term 1,8667,8667,Paid,Cash
+2540,847,Term 2,8667,822,Overdue,
+2541,847,Term 3,8667,8667,Paid,Cash
+2542,848,Term 1,8667,8667,Paid,Razorpay (Online)
+2543,848,Term 2,8667,8667,Paid,Razorpay (Online)
+2544,848,Term 3,8667,8667,Paid,Bank Transfer
+2545,849,Term 1,8667,8667,Paid,Bank Transfer
+2546,849,Term 2,8667,8667,Paid,Razorpay (Online)
+2547,849,Term 3,8667,0,Pending,
+2548,850,Term 1,8667,0,Pending,
+2549,850,Term 2,8667,8667,Paid,Razorpay (Online)
+2550,850,Term 3,8667,8667,Paid,Razorpay (Online)
+2551,851,Term 1,8667,8667,Paid,Razorpay (Online)
+2552,851,Term 2,8667,0,Pending,
+2553,851,Term 3,8667,8667,Paid,Razorpay (Online)
+2554,852,Term 1,8667,8667,Paid,Razorpay (Online)
+2555,852,Term 2,8667,8667,Paid,Bank Transfer
+2556,852,Term 3,8667,8667,Paid,Bank Transfer
+2557,853,Term 1,8667,0,Pending,
+2558,853,Term 2,8667,0,Pending,
+2559,853,Term 3,8667,8667,Paid,Razorpay (Online)
+2560,854,Term 1,8667,4084,Overdue,
+2561,854,Term 2,8667,8667,Paid,Razorpay (Online)
+2562,854,Term 3,8667,8667,Paid,Razorpay (Online)
+2563,855,Term 1,8667,8667,Paid,Razorpay (Online)
+2564,855,Term 2,8667,8667,Paid,Razorpay (Online)
+2565,855,Term 3,8667,0,Pending,
+2566,856,Term 1,8667,8667,Paid,Razorpay (Online)
+2567,856,Term 2,8667,8667,Paid,Razorpay (Online)
+2568,856,Term 3,8667,8667,Paid,Cash
+2569,857,Term 1,8667,8667,Paid,Razorpay (Online)
+2570,857,Term 2,8667,8667,Paid,Razorpay (Online)
+2571,857,Term 3,8667,8667,Paid,Bank Transfer
+2572,858,Term 1,8667,8667,Paid,Cash
+2573,858,Term 2,8667,8667,Paid,Razorpay (Online)
+2574,858,Term 3,8667,8667,Paid,Cash
+2575,859,Term 1,8667,44,Overdue,
+2576,859,Term 2,8667,8667,Paid,Razorpay (Online)
+2577,859,Term 3,8667,8667,Paid,Cash
+2578,860,Term 1,8667,8667,Paid,Bank Transfer
+2579,860,Term 2,8667,8667,Paid,Razorpay (Online)
+2580,860,Term 3,8667,8667,Paid,Bank Transfer
+2581,861,Term 1,8667,8667,Paid,Cash
+2582,861,Term 2,8667,8667,Paid,Bank Transfer
+2583,861,Term 3,8667,0,Pending,
+2584,862,Term 1,8667,4146,Overdue,
+2585,862,Term 2,8667,231,Overdue,
+2586,862,Term 3,8667,8667,Paid,Razorpay (Online)
+2587,863,Term 1,8667,1466,Overdue,
+2588,863,Term 2,8667,257,Overdue,
+2589,863,Term 3,8667,8667,Paid,Razorpay (Online)
+2590,864,Term 1,8667,8667,Paid,Razorpay (Online)
+2591,864,Term 2,8667,0,Pending,
+2592,864,Term 3,8667,0,Pending,
+2593,865,Term 1,8667,8667,Paid,Razorpay (Online)
+2594,865,Term 2,8667,8667,Paid,Bank Transfer
+2595,865,Term 3,8667,8667,Paid,Razorpay (Online)
+2596,866,Term 1,8667,8667,Paid,Razorpay (Online)
+2597,866,Term 2,8667,8667,Paid,Cash
+2598,866,Term 3,8667,0,Pending,
+2599,867,Term 1,8667,8667,Paid,Razorpay (Online)
+2600,867,Term 2,8667,8667,Paid,Bank Transfer
+2601,867,Term 3,8667,8667,Paid,Razorpay (Online)
+2602,868,Term 1,8667,8667,Paid,Cash
+2603,868,Term 2,8667,0,Pending,
+2604,868,Term 3,8667,8667,Paid,Razorpay (Online)
+2605,869,Term 1,8667,0,Pending,
+2606,869,Term 2,8667,0,Pending,
+2607,869,Term 3,8667,8667,Paid,Cash
+2608,870,Term 1,8667,8667,Paid,Bank Transfer
+2609,870,Term 2,8667,8667,Paid,Razorpay (Online)
+2610,870,Term 3,8667,8667,Paid,Razorpay (Online)
+2611,871,Term 1,8667,8667,Paid,Bank Transfer
+2612,871,Term 2,8667,1232,Overdue,
+2613,871,Term 3,8667,8667,Paid,Cash
+2614,872,Term 1,8667,0,Pending,
+2615,872,Term 2,8667,8667,Paid,Razorpay (Online)
+2616,872,Term 3,8667,8667,Paid,Cash
+2617,873,Term 1,8667,0,Pending,
+2618,873,Term 2,8667,8667,Paid,Razorpay (Online)
+2619,873,Term 3,8667,8667,Paid,Cash
+2620,874,Term 1,8667,0,Pending,
+2621,874,Term 2,8667,8667,Paid,Razorpay (Online)
+2622,874,Term 3,8667,8667,Paid,Razorpay (Online)
+2623,875,Term 1,8667,8667,Paid,Razorpay (Online)
+2624,875,Term 2,8667,1514,Overdue,
+2625,875,Term 3,8667,8667,Paid,Cash
+2626,876,Term 1,8667,0,Pending,
+2627,876,Term 2,8667,8667,Paid,Bank Transfer
+2628,876,Term 3,8667,8667,Paid,Bank Transfer
+2629,877,Term 1,8667,8667,Paid,Cash
+2630,877,Term 2,8667,8667,Paid,Cash
+2631,877,Term 3,8667,8667,Paid,Bank Transfer
+2632,878,Term 1,8667,8667,Paid,Cash
+2633,878,Term 2,8667,8667,Paid,Bank Transfer
+2634,878,Term 3,8667,8667,Paid,Razorpay (Online)
+2635,879,Term 1,8667,8667,Paid,Cash
+2636,879,Term 2,8667,0,Pending,
+2637,879,Term 3,8667,8667,Paid,Cash
+2638,880,Term 1,8667,8667,Paid,Bank Transfer
+2639,880,Term 2,8667,0,Pending,
+2640,880,Term 3,8667,8667,Paid,Razorpay (Online)
+2641,881,Term 1,8667,0,Pending,
+2642,881,Term 2,8667,8667,Paid,Razorpay (Online)
+2643,881,Term 3,8667,3646,Overdue,
+2644,882,Term 1,8667,0,Pending,
+2645,882,Term 2,8667,8667,Paid,Razorpay (Online)
+2646,882,Term 3,8667,8667,Paid,Cash
+2647,883,Term 1,8667,8667,Paid,Bank Transfer
+2648,883,Term 2,8667,483,Overdue,
+2649,883,Term 3,8667,8667,Paid,Razorpay (Online)
+2650,884,Term 1,8667,8667,Paid,Razorpay (Online)
+2651,884,Term 2,8667,874,Overdue,
+2652,884,Term 3,8667,8667,Paid,Cash
+2653,885,Term 1,8667,1173,Overdue,
+2654,885,Term 2,8667,8667,Paid,Razorpay (Online)
+2655,885,Term 3,8667,8667,Paid,Razorpay (Online)
+2656,886,Term 1,8667,8667,Paid,Cash
+2657,886,Term 2,8667,8667,Paid,Razorpay (Online)
+2658,886,Term 3,8667,8667,Paid,Razorpay (Online)
+2659,887,Term 1,8667,8667,Paid,Cash
+2660,887,Term 2,8667,0,Pending,
+2661,887,Term 3,8667,8667,Paid,Razorpay (Online)
+2662,888,Term 1,8667,8667,Paid,Razorpay (Online)
+2663,888,Term 2,8667,8667,Paid,Razorpay (Online)
+2664,888,Term 3,8667,8667,Paid,Razorpay (Online)
+2665,889,Term 1,8667,8667,Paid,Razorpay (Online)
+2666,889,Term 2,8667,8667,Paid,Bank Transfer
+2667,889,Term 3,8667,8667,Paid,Cash
+2668,890,Term 1,8667,8667,Paid,Razorpay (Online)
+2669,890,Term 2,8667,1920,Overdue,
+2670,890,Term 3,8667,8667,Paid,Cash
+2671,891,Term 1,8667,0,Pending,
+2672,891,Term 2,8667,0,Pending,
+2673,891,Term 3,8667,8667,Paid,Razorpay (Online)
+2674,892,Term 1,8667,8667,Paid,Razorpay (Online)
+2675,892,Term 2,8667,8667,Paid,Cash
+2676,892,Term 3,8667,0,Pending,
+2677,893,Term 1,8667,8667,Paid,Razorpay (Online)
+2678,893,Term 2,8667,8667,Paid,Razorpay (Online)
+2679,893,Term 3,8667,3785,Overdue,
+2680,894,Term 1,8667,8667,Paid,Cash
+2681,894,Term 2,8667,0,Pending,
+2682,894,Term 3,8667,21,Overdue,
+2683,895,Term 1,8667,8667,Paid,Razorpay (Online)
+2684,895,Term 2,8667,8667,Paid,Bank Transfer
+2685,895,Term 3,8667,8667,Paid,Razorpay (Online)
+2686,896,Term 1,8667,8667,Paid,Razorpay (Online)
+2687,896,Term 2,8667,0,Pending,
+2688,896,Term 3,8667,8667,Paid,Razorpay (Online)
+2689,897,Term 1,8667,8667,Paid,Razorpay (Online)
+2690,897,Term 2,8667,0,Pending,
+2691,897,Term 3,8667,3085,Overdue,
+2692,898,Term 1,8667,8667,Paid,Razorpay (Online)
+2693,898,Term 2,8667,8667,Paid,Cash
+2694,898,Term 3,8667,13,Overdue,
+2695,899,Term 1,8667,8667,Paid,Razorpay (Online)
+2696,899,Term 2,8667,0,Pending,
+2697,899,Term 3,8667,8667,Paid,Razorpay (Online)
+2698,900,Term 1,8667,8667,Paid,Razorpay (Online)
+2699,900,Term 2,8667,3931,Overdue,
+2700,900,Term 3,8667,8667,Paid,Razorpay (Online)
